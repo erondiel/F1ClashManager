@@ -1,0 +1,95 @@
+Series 1,Speed,,Cornering,,PowerUnit,
+,The Stabiliser,78,The Stabiliser,78,The Stabiliser,78
+,The Equinox,78,The Equinox,78,The Equinox,78
+,The Blaze,65,The Blaze,65,The Blaze,65
+,Glide,61,Glide,61,Glide,61
+,Zenith,4.20,Zenith,4.20,Zenith,4.20
+,The Synergy,282,The Synergy,282,The Synergy,282
+,,,,,,
+Series 2,Speed,,Cornering,,PowerUnit,
+,The Stabiliser,92,The Corsair,59,The Stabiliser,60
+,The Equinox,72,The Equinox,88,Cold Fusion,75
+,The Blaze,59,The Blaze,65,The Blaze,76
+,Gallop,65,Glide,56,Glide,74
+,Zenith,3.99,Nexus,3.78,Nexus,4.1
+,The Accord,288,The Synergy,268,The Synergy,285
+,,,,,,
+Series 3,Speed,,Cornering,,PowerUnit,
+,The Fury,118,The Corsair,54,The Fury,86
+,The Equinox,61,Pivot,110,Cold Fusion,64
+,The Spire,65,The Blaze,57,The Spire,82
+,Gallop,72,Glide,64,Glide,81
+,Zenith,3.64,Curver 2.0,3.6,Nexus,3.75
+,The Accord,316,The Synergy,285,The Synergy,313
+,,,,,,
+Series 4,Speed,,Cornering,,PowerUnit,
+,The Fury,118,The Corsair,55,The Fury,86
+,The Equinox,61,Pivot,129,Cold Fusion,76
+,The Spire,65,The Blaze,59,Motion,101
+,Gallop,72,Glide,62,Spark-E,73
+,Zenith,3.64,Curver 2.0,3.53,Nexus,3.05
+,The Accord,316,Thunderbolt,305,Thunderbolt,336
+,,,,,,
+Series 5,Speed,,Cornering,,PowerUnit,
+,The Fury,138,Monolith,57,The Fury,84
+,The Surge,61,Pivot,138,Cold Fusion,76
+,The Spire,66,The Blaze,64,Motion,114
+,Gallop,91,Glide,83,Spark-E,75
+,Zenith,3.5,Curver 2.0,3.77,The Pulse,2.73
+,The Accord,356,Thunderbolt,342,Thunderbolt,349
+,,,,,,
+Series 6,Speed,,Cornering,,PowerUnit,
+,The Fury,154,Monolith,57,The Fury,86
+,The Surge,56,Pivot,157,Cold Fusion,57
+,Aero Blade,64,The Blaze,63,Motion,133
+,Gallop,106,The Saber,98,Spark-E,95
+,Zenith,3.6,Curver 2.0,3.67,The Pulse,2.73
+,The Accord,380,Thunderbolt,375,M4D Dash,371
+,,,,,,
+Series 7,Speed,,Cornering,,PowerUnit,
+,The Fury,169,Monolith,70,The Fury,86
+,The Surge,61,Pivot,189,Cold Fusion,57
+,Aero Blade,70,The Valkyrie,73,Motion,133
+,Gallop,113,The Saber,113,Spark-E,95
+,Hustle,3.46,Curver 2.0,3.21,The Pulse,2.73
+,The Accord,413,The Juggernaut,445,M4D Dash,371
+,,,,,,
+Series 8,Speed,,Cornering,,PowerUnit,
+,The Fury,194,Monolith,69,The Dynamo,78
+,The Surge,71,Pivot,185,The Quantum,72
+,Aero Blade,76,The Valkyrie,71,Motion,187
+,Turbo Jet,112,The Saber,112,Spark-E,97
+,Hustle,3.25,Curver 2.0,3.36,The Pulse,2.27
+,The Accord,453,The Juggernaut,437,M4D Dash,434
+,,,,,,
+Series 9,Speed,,Cornering,,PowerUnit,
+,The Fury,194,Monolith,80,The Dynamo,94
+,The Surge,71,Pivot,217,The Quantum,93
+,Aero Blade,76,The Valkyrie,82,Power Lift,247
+,Turbo Jet,112,The Saber,110,The Beast,120
+,Hustle,3.25,The Arc,2.9,The Pulse,2.51
+,The Accord,453,The Juggernaut,489,M4D Dash,554
+,,,,,,
+Series 10,Speed,,Cornering,,PowerUnit,
+,Stormbringer,248,Monolith,92,The Dynamo,94
+,The Surge,93,The Gyro,248,The Quantum,93
+,Aero Blade,96,The Valkyrie,88,Power Lift,247
+,Turbo Jet,127,The Saber,123,The Beast,120
+,Hustle,2.89,The Arc,2.97,The Pulse,2.51
+,Mach III,564,The Juggernaut,551,M4D Dash,554
+,,,,,,
+Series 11,Speed,,Cornering,,PowerUnit,
+,Stormbringer,280,The Behemoth,118,The Dynamo,94
+,The Surge,107,The Gyro,310,The Quantum,93
+,The Cyclone,106,The Valkyrie,109,Power Lift,247
+,Turbo Jet,123,Nemesis,114,The Beast,120
+,Hustle,2.58,The Arc,2.2,The Pulse,2.51
+,Mach III,616,The Juggernaut,651,M4D Dash,554
+,,,,,,
+Series 12,Speed,,Cornering,,PowerUnit,
+,Stormbringer,310,The Behemoth,118,The Dynamo,115
+,Beat,117,The Gyro,310,The Quantum,118
+,The Cyclone,117,The Valkyrie,109,Power Lift,310
+,Turbo Jet,118,Nemesis,114,The Beast,125
+,Hustle,2.34,The Arc,2.2,The Reactor,2.26
+,Mach III,662,The Juggernaut,651,The Powerhouse,668

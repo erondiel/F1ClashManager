@@ -1,0 +1,179 @@
+{
+  "rear_wing": [
+    {
+      "name": "The Valkyrie",
+      "category": "Rear Wing",
+      "rarity": "Epic",
+      "level": 5,
+      "highestLevel": 5,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 59,
+        "cardsNeeded": 641,
+        "maxCards": 784,
+        "perLevel": 84,
+        "totalCards": 143,
+        "coinsNeeded": 7700000
+      },
+      "stats": {
+        "speed": 14.0,
+        "cornering": 37.0,
+        "powerUnit": 15.0,
+        "qualifying": 14.0,
+        "pitTime": 0.58
+      },
+      "totalValue": 80,
+      "series": 7
+    },
+    {
+      "name": "Power Lift",
+      "category": "Rear Wing",
+      "rarity": "Rare",
+      "level": 4,
+      "highestLevel": 5,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 106,
+        "cardsNeeded": 1644,
+        "maxCards": 1784,
+        "perLevel": 34,
+        "totalCards": 140,
+        "coinsNeeded": 45000000
+      },
+      "stats": {
+        "speed": 15.0,
+        "cornering": 13.0,
+        "powerUnit": 37.0,
+        "qualifying": 15.0,
+        "pitTime": 0.59
+      },
+      "totalValue": 80,
+      "series": 9
+    },
+    {
+      "name": "Aero Blade",
+      "category": "Rear Wing",
+      "rarity": "Common",
+      "level": 8,
+      "highestLevel": 8,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 644,
+        "cardsNeeded": 6356,
+        "maxCards": 7784,
+        "perLevel": 784,
+        "totalCards": 1428,
+        "coinsNeeded": 36250000
+      },
+      "stats": {
+        "speed": 24.0,
+        "cornering": 8.0,
+        "powerUnit": 10.0,
+        "qualifying": 24.0,
+        "pitTime": 0.64
+      },
+      "totalValue": 66,
+      "series": 6
+    },
+    {
+      "name": "The Spire",
+      "category": "Rear Wing",
+      "rarity": "Common",
+      "level": 8,
+      "highestLevel": 9,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 1246,
+        "cardsNeeded": 5754,
+        "maxCards": 7784,
+        "perLevel": 784,
+        "totalCards": 2030,
+        "coinsNeeded": 5250000
+      },
+      "stats": {
+        "speed": 10.0,
+        "cornering": 12.0,
+        "powerUnit": 10.0,
+        "qualifying": 10.0,
+        "pitTime": 0.57
+      },
+      "totalValue": 42,
+      "series": 3
+    },
+    {
+      "name": "Motion",
+      "category": "Rear Wing",
+      "rarity": "Common",
+      "level": 4,
+      "highestLevel": 8,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 1633,
+        "cardsNeeded": 6117,
+        "maxCards": 7784,
+        "perLevel": 34,
+        "totalCards": 1667,
+        "coinsNeeded": 190000
+      },
+      "stats": {
+        "speed": 6.0,
+        "cornering": 4.0,
+        "powerUnit": 13.0,
+        "qualifying": 5.0,
+        "pitTime": 0.53
+      },
+      "totalValue": 28,
+      "series": 4
+    },
+    {
+      "name": "The Blaze",
+      "category": "Rear Wing",
+      "rarity": "Rare",
+      "level": 7,
+      "highestLevel": 8,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 493,
+        "cardsNeeded": 907,
+        "maxCards": 1784,
+        "perLevel": 384,
+        "totalCards": 877,
+        "coinsNeeded": 0
+      },
+      "stats": {
+        "speed": 0.0,
+        "cornering": 0.0,
+        "powerUnit": 0.0,
+        "qualifying": 0.0,
+        "pitTime": 0.0
+      },
+      "totalValue": 0,
+      "series": 0
+    },
+    {
+      "name": "The Cyclone",
+      "category": "Rear Wing",
+      "rarity": "Epic",
+      "level": 0,
+      "highestLevel": 0,
+      "inInventory": false,
+      "upgradeInfo": {
+        "cardsOwned": 0,
+        "cardsNeeded": 784,
+        "maxCards": 784,
+        "perLevel": 0,
+        "totalCards": 0,
+        "coinsNeeded": 0
+      },
+      "stats": {
+        "speed": 0.0,
+        "cornering": 0.0,
+        "powerUnit": 0.0,
+        "qualifying": 0.0,
+        "pitTime": 0.0
+      },
+      "totalValue": 0,
+      "series": 0
+    }
+  ]
+}

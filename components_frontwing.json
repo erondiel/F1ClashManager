@@ -1,0 +1,179 @@
+{
+  "front_wing": [
+    {
+      "name": "The Beast",
+      "category": "Front Wing",
+      "rarity": "Epic",
+      "level": 3,
+      "highestLevel": 4,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 52,
+        "cardsNeeded": 718,
+        "maxCards": 784,
+        "perLevel": 14,
+        "totalCards": 66,
+        "coinsNeeded": 19000000
+      },
+      "stats": {
+        "speed": 15.0,
+        "cornering": 16.0,
+        "powerUnit": 40.0,
+        "qualifying": 17.0,
+        "pitTime": 0.52
+      },
+      "totalValue": 88,
+      "series": 9
+    },
+    {
+      "name": "Turbo Jet",
+      "category": "Front Wing",
+      "rarity": "Rare",
+      "level": 5,
+      "highestLevel": 6,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 179,
+        "cardsNeeded": 1521,
+        "maxCards": 1784,
+        "perLevel": 84,
+        "totalCards": 263,
+        "coinsNeeded": 42250000
+      },
+      "stats": {
+        "speed": 34.0,
+        "cornering": 14.0,
+        "powerUnit": 11.0,
+        "qualifying": 12.0,
+        "pitTime": 0.62
+      },
+      "totalValue": 71,
+      "series": 8
+    },
+    {
+      "name": "The Saber",
+      "category": "Front Wing",
+      "rarity": "Rare",
+      "level": 7,
+      "highestLevel": 7,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 112,
+        "cardsNeeded": 1288,
+        "maxCards": 1784,
+        "perLevel": 384,
+        "totalCards": 496,
+        "coinsNeeded": 19500000
+      },
+      "stats": {
+        "speed": 10.0,
+        "cornering": 26.0,
+        "powerUnit": 10.0,
+        "qualifying": 23.0,
+        "pitTime": 0.66
+      },
+      "totalValue": 69,
+      "series": 6
+    },
+    {
+      "name": "Gallop",
+      "category": "Front Wing",
+      "rarity": "Common",
+      "level": 8,
+      "highestLevel": 9,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 1233,
+        "cardsNeeded": 5767,
+        "maxCards": 7784,
+        "perLevel": 784,
+        "totalCards": 2017,
+        "coinsNeeded": 3750000
+      },
+      "stats": {
+        "speed": 14.0,
+        "cornering": 6.0,
+        "powerUnit": 6.0,
+        "qualifying": 12.0,
+        "pitTime": 0.79
+      },
+      "totalValue": 38,
+      "series": 2
+    },
+    {
+      "name": "Spark-E",
+      "category": "Front Wing",
+      "rarity": "Common",
+      "level": 4,
+      "highestLevel": 9,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 2290,
+        "cardsNeeded": 5460,
+        "maxCards": 7784,
+        "perLevel": 34,
+        "totalCards": 2324,
+        "coinsNeeded": 190000
+      },
+      "stats": {
+        "speed": 6.0,
+        "cornering": 5.0,
+        "powerUnit": 11.0,
+        "qualifying": 4.0,
+        "pitTime": 0.64
+      },
+      "totalValue": 26,
+      "series": 4
+    },
+    {
+      "name": "Glide",
+      "category": "Front Wing",
+      "rarity": "Common",
+      "level": 7,
+      "highestLevel": 9,
+      "inInventory": true,
+      "upgradeInfo": {
+        "cardsOwned": 1934,
+        "cardsNeeded": 5466,
+        "maxCards": 7784,
+        "perLevel": 384,
+        "totalCards": 2318,
+        "coinsNeeded": 0
+      },
+      "stats": {
+        "speed": 0.0,
+        "cornering": 0.0,
+        "powerUnit": 0.0,
+        "qualifying": 0.0,
+        "pitTime": 0.0
+      },
+      "totalValue": 0,
+      "series": 0
+    },
+    {
+      "name": "Nemesis",
+      "category": "Front Wing",
+      "rarity": "Epic",
+      "level": 0,
+      "highestLevel": 0,
+      "inInventory": false,
+      "upgradeInfo": {
+        "cardsOwned": 0,
+        "cardsNeeded": 784,
+        "maxCards": 784,
+        "perLevel": 0,
+        "totalCards": 0,
+        "coinsNeeded": 0
+      },
+      "stats": {
+        "speed": 0.0,
+        "cornering": 0.0,
+        "powerUnit": 0.0,
+        "qualifying": 0.0,
+        "pitTime": 0.0
+      },
+      "totalValue": 0,
+      "series": 0
+    }
+  ]
+}

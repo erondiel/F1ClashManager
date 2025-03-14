@@ -1,0 +1,38 @@
+Track,Driver,Component,,Cornering Focused,,,,,,Power Unit Focused,,,,,,Speed Focused,,,,
+Mogyorod,Defending,Cornering,,Mogyorod - Monaco,,,,,,Imola - Melbourne,,,,,,Monza - Spielberg,,,,
+Monaco,Defending,Cornering,,Boost,Defending,Cornering,Final Stat,,,Boost,Defending,Power Unit,Final Stat,,,Boost,Defending,Speed,Final Stat,
+Montreal,Overtaking,Cornering,,Hook,15,25,10,Race Start,,Iron Force,20,20,10,Tyre Mgmt,,Rainbow,25,20,5,Race Start
+Zandvoort,Overtaking,Cornering,,Movember,15,25,10,Tyre Mgmt,,Djinn,15,20,15,Cornering,,Tulip,10,20,20,Pit Time
+Singapore,Race Start,Cornering,,Prince,10,20,20,Race Start,,Vice,25,15,10,Speed,,Vice,25,10,15,Power Unit
+Suzuka,Race Start,Cornering,,Djinn,15,15,20,Power Unit,,Gladiator,25,10,15,Race Start,,Warrior,5,10,5,Overtaking
+Barcelona,Tyre Management,Cornering,,Tsar,10,15,25,Tyre Mgmt,,Eggception,15,10,25,Pit Time,,,,,,
+Mexico,Tyre Management,Cornering,,Cranberry,20,10,20,Overtaking,,,,,,,,Baku - Shanghai,,,,
+Imola,Defending,Power Unit,,Reindeer,20,10,20,Pit Time,,Sakhir - Sao Paulo,,,,,,Boost,Overtaking,Speed,Final Stat,
+Melbourne,Defending,Power Unit,,Downforce,10,5,15,Tyre Mgmt,,Boost,Overtaking,Power Unit,Final Stat,,,Skull,15,25,10,Power Unit
+Sakhir,Overtaking,Power Unit,,,,,,,,Taurus,5,25,20,Speed,,Eclipse,15,25,10,Pit Time
+Sao Paulo,Overtaking,Power Unit,,Montreal - Zandvoort,,,,,,Glitz,15,20,15,Cornering,,Firework,15,20,15,Race Start
+Austin,Race Start,Power Unit,,Boost,Overtaking,Cornering,Final Stat,,,Dragon,20,15,15,Tyre Mgmt,,Taurus,5,20,25,Power Unit
+Miami,Race Start,Power Unit,,Cuppa,10,20,20,Race Start,,Unstoppable,25,10,15,Speed,,Untoppable,25,15,10,Power Unit
+Silverstone,Tyre Management,Power Unit,,Glitz,15,15,20,Power Unit,,Rooster,20,10,20,Race Start,,Eternal Flame,25,15,10,Tyre Mgmt
+Monza,Defending,Speed,,Herald,10,15,25,Race Start,,Skull,15,10,25,Speed,,Hex,20,15,5,Pit Time
+Spielberg,Defending,Speed,,Cranberry,20,10,20,Defending,,,,,,,,Street Shark,10,15,25,Race Start
+Baku,Overtaking,Speed,,Oud,15,10,25,Pit Time,,Austin - Miami,,,,,,Warrior,5,10,5,Defending
+Shanghai,Overtaking,Speed,,,,,,,,Boost,Race Start,Power Unit,Final Stat,,,,,,,
+Las Vegas,Race Start,Speed,,Singapore - Suzuka,,,,,,Surf,25,20,5,Tyre Mgmt,,Las Vegas - Spa,,,,
+Spa,Race Start,Speed,,Boost,Race Start,Cornering,Final Stat,,,Instinct,10,15,5,Tyre Mgmt,,Boost,Race Start,Speed,Final Stat,
+Jeddah,Tyre Management,Speed,,Timeless,15,25,10,Speed,,Rooster,20,10,20,Overtaking,,Firework,15,20,15,Overtaking
+Abu Dhabi,Tyre Management,Speed,,Hook,10,25,15,Defending,,Gladiator,15,10,25,Defending,,Rainbow,5,20,25,Defending
+,,,,Cuppa,20,20,10,Overtaking,,Frost,15,10,25,Tyre Mgmt,,Street Shark,25,15,10,Overtaking
+,,,,Prince,20,20,10,Defending,,,,,,,,Timeless,15,10,25,Cornering
+,,,,Kawaii,15,20,15,Pit Time,,Silverstone,,,,,,,,,,
+,,,,Herald,25,15,10,Overtaking,,Boost,Tyre Mgmt,Power Unit,Final Stat,,,Jeddah - Abu Dhabi,,,,
+,,,,Nazar,20,15,15,Tyre Mgmt,,Butterfly,20,25,5,Pit Time,,Boost,Tyre Mgmt,Speed,Final Stat,
+,,,,Ballast,5,10,5,Pit Time,,Iron Force,10,20,20,Defending,,Dead Fast,5,25,20,Power Unit
+,,,,,,,,,,Dead Fast,5,20,25,Speed,,Eternal Flame,10,15,25,Overtaking
+,,,,Barcelona - Mexico,,,,,,Pretzel,20,15,10,Pit Time,,Eagle,20,15,15,Pit Time
+,,,,Boost,Tyre Mgmt,Cornering,Final Stat,,,Dragon,15,15,20,Overtaking,,,,,,
+,,,,Movember,10,25,15,Defending,,Instinct,5,15,10,Race Start,,,,,,
+,,,,Tsar,25,15,10,Defending,,Frost,25,10,15,Race Start,,,,,,
+,,,,Nazar,15,15,20,Race Start,,Self Control,5,5,5,Cornering,,,,,,
+,,,,Downforce,15,5,10,Defending,,,,,,,,,,,,
+,,,,Self Control,5,5,5,Power Unit,,,,,,,,,,,,

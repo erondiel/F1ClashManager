@@ -1,0 +1,128 @@
+Drivers,Rarity,Level,Highest,Amount,Needed,Max,Per Level,Total,Level,Amount
+Colapinto,Common,8,9,1009,5991,7784,784,1793,0,0
+Magnussen,Common,7,9,1631,5769,7784,384,2015,1,0
+Zhou,Common,7,9,1965,5435,7784,384,2349,2,4
+Bottas,Rare,7,8,677,723,1784,384,1061,3,14
+Hulkenberg,Epic,6,6,7,593,784,184,191,4,34
+Bottas,Common,6,8,1170,6430,7784,184,1354,5,84
+Hulkenberg,Common,6,8,1506,6094,7784,184,1690,6,184
+Lawson,Common,6,9,1971,5629,7784,184,2155,7,384
+Tsunoda,Common,6,9,2101,5499,7784,184,2285,8,784
+Colapinto,Epic,6,6,1,599,784,184,185,9,1784
+Gasly,Common,7,8,1379,6021,7784,384,1763,10,3784
+Ocon,Common,6,9,1922,5678,7784,184,2106,11,7784
+Stroll,Common,7,8,1282,6118,7784,384,1666,,
+Albon,Common,6,9,1879,5721,7784,184,2063,,
+Magnussen,Rare,7,8,511,889,1784,384,895,,
+Piastri,Common,9,9,163,5837,7784,1784,1947,,
+Russell,Common,5,9,1935,5765,7784,84,2019,,
+Sainz,Common,5,8,1244,6456,7784,84,1328,,
+Perez,Common,5,9,2112,5588,7784,84,2196,,
+Magnussen,Epic,5,5,98,602,784,84,182,,
+Norris,Common,4,9,1919,5831,7784,34,1953,,
+Alonso,Common,5,8,1510,6190,7784,84,1594,,
+Hamilton,Common,3,9,1867,5903,7784,14,1881,,
+Leclerc,Common,9,9,51,5949,7784,1784,1835,,
+Verstappen,Common,8,9,1351,5649,7784,784,2135,,
+Colapinto,Rare,7,7,129,1271,1784,384,513,,
+Hulkenberg,Rare,1,6,300,1484,1784,0,300,,
+Lawson,Rare,2,7,466,1314,1784,4,470,,
+Zhou,Rare,1,7,406,1378,1784,0,406,,
+Zhou,Epic,5,5,59,641,784,84,143,,
+Tsunoda,Rare,1,6,382,1402,1784,0,382,,
+Gasly,Rare,1,6,309,1475,1784,0,309,,
+Ocon,Rare,1,6,359,1425,1784,0,359,,
+Stroll,Rare,1,6,346,1438,1784,0,346,,
+Albon,Rare,3,6,327,1443,1784,14,341,,
+Piastri,Rare,1,6,314,1470,1784,0,314,,
+Russell,Rare,1,6,348,1436,1784,0,348,,
+Sainz,Rare,1,6,263,1521,1784,0,263,,
+Perez,Rare,1,6,253,1531,1784,0,253,,
+Bottas,Epic,5,5,52,648,784,84,136,,
+Norris,Rare,1,5,109,1675,1784,0,109,,
+Alonso,Rare,1,5,169,1615,1784,0,169,,
+Hamilton,Rare,1,6,226,1558,1784,0,226,,
+Leclerc,Rare,1,5,140,1644,1784,0,140,,
+Verstappen,Rare,1,5,102,1682,1784,0,102,,
+Lawson,Epic,1,3,20,764,784,0,20,,
+Tsunoda,Epic,1,3,19,765,784,0,19,,
+Gasly,Epic,1,3,22,762,784,0,22,,
+Ocon,Epic,1,3,14,770,784,0,14,,
+Stroll,Epic,1,2,13,771,784,0,13,,
+Albon,Epic,0,0,0,784,784,0,0,,
+Piastri,Epic,0,0,0,784,784,0,0,,
+Russell,Epic,0,0,0,784,784,0,0,,
+Sainz,Epic,0,0,0,784,784,0,0,,
+Perez,Epic,0,0,0,784,784,0,0,,
+Norris,Epic,0,0,0,784,784,0,0,,
+Alonso,Epic,0,0,0,784,784,0,0,,
+Hamilton,Epic,1,1,2,782,784,0,2,,
+Leclerc,Epic,0,0,0,784,784,0,0,,
+Verstappen,Epic,0,0,0,784,784,0,0,,
+Webber,Legendary,1,6,355,29,384,0,355,,
+Berger,Legendary,6,7,236,0,384,184,420,,
+Massa,Legendary,3,4,52,318,384,14,66,,
+Coulthard,Legendary,3,4,24,346,384,14,38,,
+J.Villeneuve,Legendary,2,4,51,329,384,4,55,,
+Hunt,Legendary,1,4,34,350,384,0,34,,
+Andretti,Legendary,1,4,48,336,384,0,48,,
+G.Villeneuve,Legendary,1,3,15,369,384,0,15,,
+Button,Legendary,1,2,7,377,384,0,7,,
+D.Hill,Legendary,2,3,10,370,384,4,14,,
+Fittipaldi,Legendary,1,2,7,377,384,0,7,,
+G.Hill,Legendary,1,2,6,378,384,0,6,,
+Lauda,Legendary,0,0,0,384,384,0,0,,
+Stewart,Legendary,0,0,0,384,384,0,0,,
+Prost,Legendary,0,0,0,384,384,0,0,,
+Schumacher,Legendary,0,0,0,384,384,0,0,,
+Senna,Legendary,0,0,0,384,384,0,0,,
+,,,,,,,,,,
+Components,,,,,,,,,,
+Brakes,Rarity,Level,Highest,Amount,Needed,Max,Per Level,Total,Level,Amount
+The Stabiliser,Common,8,9,1362,5638,7784,784,2146,0,0
+The Corsair,Common,7,8,1360,6040,7784,384,1744,1,0
+The Fury,Epic,5,5,46,654,784,84,130,2,4
+Monolith,Rare,7,7,233,1167,1784,384,617,3,14
+The Dynamo,Rare,4,6,206,1544,1784,34,240,4,34
+Stormbringer,Rare,3,3,5,1765,1784,14,19,5,84
+The Behemoth,Epic,0,0,0,784,784,0,0,6,184
+Gearbox,Rarity,Level,Highest,Amount,Needed,Max,Per Level,Total,7,384
+The Equinox,Common,8,9,1099,5901,7784,784,1883,8,784
+Cold Fusion,Rare,6,7,535,1065,1784,184,719,9,1784
+Pivot,Common,8,9,1065,5935,7784,784,1849,10,3784
+The Surge,Epic,5,5,67,633,784,84,151,11,7784
+The Quantum,Rare,5,6,176,1524,1784,84,260,,
+The Gyro,Rare,1,4,66,1718,1784,0,66,,
+Beat,Epic,0,0,0,784,784,0,0,,
+Rear Wing,Rarity,Level,Highest,Amount,Needed,Max,Per Level,Total,Level,Amount
+The Blaze,Rare,7,8,520,880,1784,384,904,0,0
+The Spire,Common,8,9,1310,5690,7784,784,2094,1,0
+Motion,Common,4,8,1698,6052,7784,34,1732,2,4
+Aero Blade,Common,8,8,669,6331,7784,784,1453,3,14
+The Valkyrie,Epic,5,5,62,638,784,84,146,4,34
+Power Lift,Rare,4,5,119,1631,1784,34,153,5,84
+The Cyclone,Epic,0,0,0,784,784,0,0,6,184
+Front Wing,Rarity,Level,Highest,Amount,Needed,Max,Per Level,Total,7,384
+Glide,Common,7,9,1934,5466,7784,384,2318,8,784
+Gallop,Common,8,9,1233,5767,7784,784,2017,9,1784
+Spark-E,Common,4,9,2290,5460,7784,34,2324,10,3784
+The Saber,Rare,7,7,119,1281,1784,384,503,11,7784
+Turbo Jet,Rare,5,6,179,1521,1784,84,263,,
+The Beast,Epic,3,4,60,710,784,14,74,,
+Nemesis,Epic,0,0,0,784,784,0,0,,
+Suspension,Rarity,,Highest,Amount,Needed,Max,Per Level,Total,Level,Amount
+Zenith,Epic,6,6,65,535,784,184,249,0,0
+Nexus,Common,9,9,315,5685,7784,1784,2099,1,0
+Curver 2.0,Common,8,9,1055,5945,7784,784,1839,2,4
+The Pulse,Common,6,9,1632,5968,7784,184,1816,3,14
+Hustle,Rare,7,7,15,1385,1784,384,399,4,34
+The Arc,Rare,4,5,138,1612,1784,34,172,5,84
+The Reactor,Epic,0,0,0,784,784,0,0,6,184
+Engine,Rarity,Level,Highest,Amount,Needed,Max,Per Level,Total,7,384
+The Synergy,Common,7,8,1253,6147,7784,384,1637,8,784
+The Accord,Common,8,9,1382,5618,7784,784,2166,9,1784
+Thunderbolt,Common,5,9,2142,5558,7784,84,2226,10,3784
+M4D Dash,Rare,7,7,116,1284,1784,384,500,11,7784
+The Juggernaut,Rare,6,6,185,1415,1784,184,369,,
+Mach III,Epic,2,2,7,773,784,4,11,,
+The Powerhouse,Epic,0,0,0,784,784,0,0,,

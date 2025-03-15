@@ -1,0 +1,3937 @@
+{
+  "Starter": {
+    "name": "Starter",
+    "type": "",
+    "rarity": "",
+    "series": 0,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 1.0,
+        "cornering": 1.0,
+        "power_unit": 1.0,
+        "qualifying": 1.0,
+        "pit_time": 1.0,
+        "total_value": 5.0
+      }
+    }
+  },
+  "The Stabiliser": {
+    "name": "The Stabiliser",
+    "type": "",
+    "rarity": "",
+    "series": 1,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 2.0,
+        "cornering": 2.0,
+        "power_unit": 1.0,
+        "qualifying": 3.0,
+        "pit_time": 0.97,
+        "total_value": 8.97
+      },
+      "2": {
+        "level": 2,
+        "speed": 3.0,
+        "cornering": 3.0,
+        "power_unit": 2.0,
+        "qualifying": 4.0,
+        "pit_time": 0.94,
+        "total_value": 12.94
+      },
+      "3": {
+        "level": 3,
+        "speed": 4.0,
+        "cornering": 4.0,
+        "power_unit": 3.0,
+        "qualifying": 5.0,
+        "pit_time": 0.91,
+        "total_value": 16.91
+      },
+      "4": {
+        "level": 4,
+        "speed": 5.0,
+        "cornering": 5.0,
+        "power_unit": 3.0,
+        "qualifying": 6.0,
+        "pit_time": 0.88,
+        "total_value": 19.88
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 6.0,
+        "power_unit": 4.0,
+        "qualifying": 7.0,
+        "pit_time": 0.85,
+        "total_value": 23.85
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 7.0,
+        "power_unit": 5.0,
+        "qualifying": 8.0,
+        "pit_time": 0.83,
+        "total_value": 27.83
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 7.0,
+        "power_unit": 6.0,
+        "qualifying": 8.0,
+        "pit_time": 0.8,
+        "total_value": 28.8
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 8.0,
+        "power_unit": 7.0,
+        "qualifying": 9.0,
+        "pit_time": 0.77,
+        "total_value": 32.77
+      },
+      "9": {
+        "level": 9,
+        "speed": 9.0,
+        "cornering": 9.0,
+        "power_unit": 7.0,
+        "qualifying": 10.0,
+        "pit_time": 0.74,
+        "total_value": 35.74
+      },
+      "10": {
+        "level": 10,
+        "speed": 10.0,
+        "cornering": 10.0,
+        "power_unit": 8.0,
+        "qualifying": 11.0,
+        "pit_time": 0.71,
+        "total_value": 39.71
+      },
+      "11": {
+        "level": 11,
+        "speed": 11.0,
+        "cornering": 11.0,
+        "power_unit": 9.0,
+        "qualifying": 12.0,
+        "pit_time": 0.69,
+        "total_value": 43.69
+      }
+    }
+  },
+  "The Corsair": {
+    "name": "The Corsair",
+    "type": "",
+    "rarity": "",
+    "series": 2,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 3.0,
+        "cornering": 5.0,
+        "power_unit": 2.0,
+        "qualifying": 1.0,
+        "pit_time": 0.86,
+        "total_value": 11.86
+      },
+      "2": {
+        "level": 2,
+        "speed": 4.0,
+        "cornering": 7.0,
+        "power_unit": 3.0,
+        "qualifying": 2.0,
+        "pit_time": 0.81,
+        "total_value": 16.81
+      },
+      "3": {
+        "level": 3,
+        "speed": 4.0,
+        "cornering": 8.0,
+        "power_unit": 3.0,
+        "qualifying": 2.0,
+        "pit_time": 0.77,
+        "total_value": 17.77
+      },
+      "4": {
+        "level": 4,
+        "speed": 5.0,
+        "cornering": 10.0,
+        "power_unit": 4.0,
+        "qualifying": 3.0,
+        "pit_time": 0.72,
+        "total_value": 22.72
+      },
+      "5": {
+        "level": 5,
+        "speed": 5.0,
+        "cornering": 11.0,
+        "power_unit": 4.0,
+        "qualifying": 3.0,
+        "pit_time": 0.68,
+        "total_value": 23.68
+      },
+      "6": {
+        "level": 6,
+        "speed": 6.0,
+        "cornering": 13.0,
+        "power_unit": 5.0,
+        "qualifying": 4.0,
+        "pit_time": 0.63,
+        "total_value": 28.63
+      },
+      "7": {
+        "level": 7,
+        "speed": 6.0,
+        "cornering": 14.0,
+        "power_unit": 5.0,
+        "qualifying": 4.0,
+        "pit_time": 0.59,
+        "total_value": 29.59
+      },
+      "8": {
+        "level": 8,
+        "speed": 7.0,
+        "cornering": 16.0,
+        "power_unit": 6.0,
+        "qualifying": 5.0,
+        "pit_time": 0.54,
+        "total_value": 34.54
+      },
+      "9": {
+        "level": 9,
+        "speed": 7.0,
+        "cornering": 17.0,
+        "power_unit": 6.0,
+        "qualifying": 5.0,
+        "pit_time": 0.5,
+        "total_value": 35.5
+      },
+      "10": {
+        "level": 10,
+        "speed": 8.0,
+        "cornering": 19.0,
+        "power_unit": 7.0,
+        "qualifying": 6.0,
+        "pit_time": 0.45,
+        "total_value": 40.45
+      },
+      "11": {
+        "level": 11,
+        "speed": 8.0,
+        "cornering": 20.0,
+        "power_unit": 7.0,
+        "qualifying": 6.0,
+        "pit_time": 0.41,
+        "total_value": 41.41
+      }
+    }
+  },
+  "The Fury": {
+    "name": "The Fury",
+    "type": "",
+    "rarity": "",
+    "series": 3,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 15.0,
+        "cornering": 5.0,
+        "power_unit": 6.0,
+        "qualifying": 7.0,
+        "pit_time": 0.83,
+        "total_value": 33.83
+      },
+      "2": {
+        "level": 2,
+        "speed": 18.0,
+        "cornering": 6.0,
+        "power_unit": 7.0,
+        "qualifying": 8.0,
+        "pit_time": 0.8,
+        "total_value": 39.8
+      },
+      "3": {
+        "level": 3,
+        "speed": 20.0,
+        "cornering": 7.0,
+        "power_unit": 8.0,
+        "qualifying": 9.0,
+        "pit_time": 0.77,
+        "total_value": 44.77
+      },
+      "4": {
+        "level": 4,
+        "speed": 23.0,
+        "cornering": 8.0,
+        "power_unit": 9.0,
+        "qualifying": 10.0,
+        "pit_time": 0.74,
+        "total_value": 50.74
+      },
+      "5": {
+        "level": 5,
+        "speed": 25.0,
+        "cornering": 8.0,
+        "power_unit": 10.0,
+        "qualifying": 11.0,
+        "pit_time": 0.71,
+        "total_value": 54.71
+      },
+      "6": {
+        "level": 6,
+        "speed": 28.0,
+        "cornering": 9.0,
+        "power_unit": 11.0,
+        "qualifying": 12.0,
+        "pit_time": 0.68,
+        "total_value": 60.68
+      },
+      "7": {
+        "level": 7,
+        "speed": 30.0,
+        "cornering": 10.0,
+        "power_unit": 12.0,
+        "qualifying": 13.0,
+        "pit_time": 0.65,
+        "total_value": 65.65
+      },
+      "8": {
+        "level": 8,
+        "speed": 33.0,
+        "cornering": 11.0,
+        "power_unit": 13.0,
+        "qualifying": 14.0,
+        "pit_time": 0.62,
+        "total_value": 71.62
+      }
+    }
+  },
+  "Monolith": {
+    "name": "Monolith",
+    "type": "",
+    "rarity": "",
+    "series": 5,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 5.0,
+        "cornering": 15.0,
+        "power_unit": 6.0,
+        "qualifying": 14.0,
+        "pit_time": 0.83,
+        "total_value": 40.83
+      },
+      "2": {
+        "level": 2,
+        "speed": 6.0,
+        "cornering": 17.0,
+        "power_unit": 7.0,
+        "qualifying": 16.0,
+        "pit_time": 0.8,
+        "total_value": 46.8
+      },
+      "3": {
+        "level": 3,
+        "speed": 6.0,
+        "cornering": 19.0,
+        "power_unit": 8.0,
+        "qualifying": 17.0,
+        "pit_time": 0.78,
+        "total_value": 50.78
+      },
+      "4": {
+        "level": 4,
+        "speed": 7.0,
+        "cornering": 20.0,
+        "power_unit": 8.0,
+        "qualifying": 19.0,
+        "pit_time": 0.76,
+        "total_value": 54.76
+      },
+      "5": {
+        "level": 5,
+        "speed": 8.0,
+        "cornering": 22.0,
+        "power_unit": 9.0,
+        "qualifying": 21.0,
+        "pit_time": 0.74,
+        "total_value": 60.74
+      },
+      "6": {
+        "level": 6,
+        "speed": 8.0,
+        "cornering": 24.0,
+        "power_unit": 10.0,
+        "qualifying": 22.0,
+        "pit_time": 0.72,
+        "total_value": 64.72
+      },
+      "7": {
+        "level": 7,
+        "speed": 9.0,
+        "cornering": 26.0,
+        "power_unit": 11.0,
+        "qualifying": 24.0,
+        "pit_time": 0.69,
+        "total_value": 70.69
+      },
+      "8": {
+        "level": 8,
+        "speed": 9.0,
+        "cornering": 27.0,
+        "power_unit": 11.0,
+        "qualifying": 25.0,
+        "pit_time": 0.67,
+        "total_value": 72.67
+      },
+      "9": {
+        "level": 9,
+        "speed": 10.0,
+        "cornering": 29.0,
+        "power_unit": 12.0,
+        "qualifying": 27.0,
+        "pit_time": 0.65,
+        "total_value": 78.65
+      }
+    }
+  },
+  "The Dynamo": {
+    "name": "The Dynamo",
+    "type": "",
+    "rarity": "",
+    "series": 8,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 8.0,
+        "cornering": 10.0,
+        "power_unit": 28.0,
+        "qualifying": 11.0,
+        "pit_time": 0.69,
+        "total_value": 57.69
+      },
+      "2": {
+        "level": 2,
+        "speed": 9.0,
+        "cornering": 11.0,
+        "power_unit": 30.0,
+        "qualifying": 12.0,
+        "pit_time": 0.65,
+        "total_value": 62.65
+      },
+      "3": {
+        "level": 3,
+        "speed": 10.0,
+        "cornering": 12.0,
+        "power_unit": 32.0,
+        "qualifying": 13.0,
+        "pit_time": 0.62,
+        "total_value": 67.62
+      },
+      "4": {
+        "level": 4,
+        "speed": 11.0,
+        "cornering": 13.0,
+        "power_unit": 34.0,
+        "qualifying": 14.0,
+        "pit_time": 0.59,
+        "total_value": 72.59
+      },
+      "5": {
+        "level": 5,
+        "speed": 12.0,
+        "cornering": 14.0,
+        "power_unit": 36.0,
+        "qualifying": 15.0,
+        "pit_time": 0.56,
+        "total_value": 77.56
+      },
+      "6": {
+        "level": 6,
+        "speed": 12.0,
+        "cornering": 15.0,
+        "power_unit": 38.0,
+        "qualifying": 16.0,
+        "pit_time": 0.53,
+        "total_value": 81.53
+      },
+      "7": {
+        "level": 7,
+        "speed": 13.0,
+        "cornering": 16.0,
+        "power_unit": 40.0,
+        "qualifying": 17.0,
+        "pit_time": 0.5,
+        "total_value": 86.5
+      },
+      "8": {
+        "level": 8,
+        "speed": 14.0,
+        "cornering": 17.0,
+        "power_unit": 42.0,
+        "qualifying": 18.0,
+        "pit_time": 0.47,
+        "total_value": 91.47
+      },
+      "9": {
+        "level": 9,
+        "speed": 15.0,
+        "cornering": 18.0,
+        "power_unit": 44.0,
+        "qualifying": 19.0,
+        "pit_time": 0.44,
+        "total_value": 96.44
+      }
+    }
+  },
+  "Stormbringer": {
+    "name": "Stormbringer",
+    "type": "",
+    "rarity": "",
+    "series": 10,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 33.0,
+        "cornering": 12.0,
+        "power_unit": 13.0,
+        "qualifying": 11.0,
+        "pit_time": 0.62,
+        "total_value": 69.62
+      },
+      "2": {
+        "level": 2,
+        "speed": 35.0,
+        "cornering": 13.0,
+        "power_unit": 14.0,
+        "qualifying": 12.0,
+        "pit_time": 0.59,
+        "total_value": 74.59
+      },
+      "3": {
+        "level": 3,
+        "speed": 38.0,
+        "cornering": 14.0,
+        "power_unit": 15.0,
+        "qualifying": 13.0,
+        "pit_time": 0.57,
+        "total_value": 80.57
+      },
+      "4": {
+        "level": 4,
+        "speed": 40.0,
+        "cornering": 15.0,
+        "power_unit": 16.0,
+        "qualifying": 14.0,
+        "pit_time": 0.55,
+        "total_value": 85.55
+      },
+      "5": {
+        "level": 5,
+        "speed": 42.0,
+        "cornering": 16.0,
+        "power_unit": 17.0,
+        "qualifying": 15.0,
+        "pit_time": 0.53,
+        "total_value": 90.53
+      },
+      "6": {
+        "level": 6,
+        "speed": 44.0,
+        "cornering": 17.0,
+        "power_unit": 18.0,
+        "qualifying": 16.0,
+        "pit_time": 0.51,
+        "total_value": 95.51
+      },
+      "7": {
+        "level": 7,
+        "speed": 47.0,
+        "cornering": 18.0,
+        "power_unit": 19.0,
+        "qualifying": 17.0,
+        "pit_time": 0.48,
+        "total_value": 101.48
+      },
+      "8": {
+        "level": 8,
+        "speed": 49.0,
+        "cornering": 19.0,
+        "power_unit": 20.0,
+        "qualifying": 18.0,
+        "pit_time": 0.46,
+        "total_value": 106.46
+      },
+      "9": {
+        "level": 9,
+        "speed": 51.0,
+        "cornering": 20.0,
+        "power_unit": 21.0,
+        "qualifying": 19.0,
+        "pit_time": 0.44,
+        "total_value": 111.44
+      }
+    }
+  },
+  "The Behemoth": {
+    "name": "The Behemoth",
+    "type": "",
+    "rarity": "",
+    "series": 11,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 16.0,
+        "cornering": 42.0,
+        "power_unit": 17.0,
+        "qualifying": 14.0,
+        "pit_time": 0.44,
+        "total_value": 89.44
+      },
+      "2": {
+        "level": 2,
+        "speed": 17.0,
+        "cornering": 45.0,
+        "power_unit": 18.0,
+        "qualifying": 15.0,
+        "pit_time": 0.41,
+        "total_value": 95.41
+      },
+      "3": {
+        "level": 3,
+        "speed": 18.0,
+        "cornering": 47.0,
+        "power_unit": 19.0,
+        "qualifying": 16.0,
+        "pit_time": 0.37,
+        "total_value": 100.37
+      },
+      "4": {
+        "level": 4,
+        "speed": 19.0,
+        "cornering": 50.0,
+        "power_unit": 20.0,
+        "qualifying": 17.0,
+        "pit_time": 0.34,
+        "total_value": 106.34
+      },
+      "5": {
+        "level": 5,
+        "speed": 19.0,
+        "cornering": 52.0,
+        "power_unit": 20.0,
+        "qualifying": 18.0,
+        "pit_time": 0.3,
+        "total_value": 109.3
+      },
+      "6": {
+        "level": 6,
+        "speed": 20.0,
+        "cornering": 55.0,
+        "power_unit": 21.0,
+        "qualifying": 19.0,
+        "pit_time": 0.27,
+        "total_value": 115.27
+      },
+      "7": {
+        "level": 7,
+        "speed": 21.0,
+        "cornering": 57.0,
+        "power_unit": 22.0,
+        "qualifying": 20.0,
+        "pit_time": 0.23,
+        "total_value": 120.23
+      },
+      "8": {
+        "level": 8,
+        "speed": 22.0,
+        "cornering": 60.0,
+        "power_unit": 23.0,
+        "qualifying": 21.0,
+        "pit_time": 0.2,
+        "total_value": 126.2
+      }
+    }
+  },
+  "The Equinox": {
+    "name": "The Equinox",
+    "type": "",
+    "rarity": "",
+    "series": 1,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 2.0,
+        "cornering": 2.0,
+        "power_unit": 3.0,
+        "qualifying": 1.0,
+        "pit_time": 0.97,
+        "total_value": 8.97
+      },
+      "2": {
+        "level": 2,
+        "speed": 3.0,
+        "cornering": 3.0,
+        "power_unit": 4.0,
+        "qualifying": 2.0,
+        "pit_time": 0.93,
+        "total_value": 12.93
+      },
+      "3": {
+        "level": 3,
+        "speed": 4.0,
+        "cornering": 4.0,
+        "power_unit": 5.0,
+        "qualifying": 3.0,
+        "pit_time": 0.9,
+        "total_value": 16.9
+      },
+      "4": {
+        "level": 4,
+        "speed": 4.0,
+        "cornering": 5.0,
+        "power_unit": 6.0,
+        "qualifying": 3.0,
+        "pit_time": 0.87,
+        "total_value": 18.87
+      },
+      "5": {
+        "level": 5,
+        "speed": 5.0,
+        "cornering": 6.0,
+        "power_unit": 7.0,
+        "qualifying": 4.0,
+        "pit_time": 0.84,
+        "total_value": 22.84
+      },
+      "6": {
+        "level": 6,
+        "speed": 6.0,
+        "cornering": 7.0,
+        "power_unit": 8.0,
+        "qualifying": 5.0,
+        "pit_time": 0.81,
+        "total_value": 26.81
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 7.0,
+        "power_unit": 8.0,
+        "qualifying": 6.0,
+        "pit_time": 0.78,
+        "total_value": 28.78
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 8.0,
+        "power_unit": 9.0,
+        "qualifying": 7.0,
+        "pit_time": 0.74,
+        "total_value": 32.74
+      },
+      "9": {
+        "level": 9,
+        "speed": 8.0,
+        "cornering": 9.0,
+        "power_unit": 10.0,
+        "qualifying": 7.0,
+        "pit_time": 0.71,
+        "total_value": 34.71
+      },
+      "10": {
+        "level": 10,
+        "speed": 9.0,
+        "cornering": 10.0,
+        "power_unit": 11.0,
+        "qualifying": 8.0,
+        "pit_time": 0.68,
+        "total_value": 38.68
+      },
+      "11": {
+        "level": 11,
+        "speed": 10.0,
+        "cornering": 11.0,
+        "power_unit": 12.0,
+        "qualifying": 9.0,
+        "pit_time": 0.65,
+        "total_value": 42.65
+      }
+    }
+  },
+  "Cold Fusion": {
+    "name": "Cold Fusion",
+    "type": "",
+    "rarity": "",
+    "series": 2,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 3.0,
+        "cornering": 2.0,
+        "power_unit": 7.0,
+        "qualifying": 7.0,
+        "pit_time": 0.9,
+        "total_value": 19.9
+      },
+      "2": {
+        "level": 2,
+        "speed": 4.0,
+        "cornering": 3.0,
+        "power_unit": 9.0,
+        "qualifying": 9.0,
+        "pit_time": 0.87,
+        "total_value": 25.87
+      },
+      "3": {
+        "level": 3,
+        "speed": 4.0,
+        "cornering": 3.0,
+        "power_unit": 11.0,
+        "qualifying": 11.0,
+        "pit_time": 0.84,
+        "total_value": 29.84
+      },
+      "4": {
+        "level": 4,
+        "speed": 5.0,
+        "cornering": 4.0,
+        "power_unit": 12.0,
+        "qualifying": 12.0,
+        "pit_time": 0.82,
+        "total_value": 33.82
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 5.0,
+        "power_unit": 14.0,
+        "qualifying": 14.0,
+        "pit_time": 0.79,
+        "total_value": 39.79
+      },
+      "6": {
+        "level": 6,
+        "speed": 6.0,
+        "cornering": 5.0,
+        "power_unit": 16.0,
+        "qualifying": 16.0,
+        "pit_time": 0.76,
+        "total_value": 43.76
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 6.0,
+        "power_unit": 18.0,
+        "qualifying": 18.0,
+        "pit_time": 0.74,
+        "total_value": 49.74
+      },
+      "8": {
+        "level": 8,
+        "speed": 7.0,
+        "cornering": 6.0,
+        "power_unit": 19.0,
+        "qualifying": 19.0,
+        "pit_time": 0.71,
+        "total_value": 51.71
+      },
+      "9": {
+        "level": 9,
+        "speed": 8.0,
+        "cornering": 7.0,
+        "power_unit": 21.0,
+        "qualifying": 21.0,
+        "pit_time": 0.69,
+        "total_value": 57.69
+      }
+    }
+  },
+  "Pivot": {
+    "name": "Pivot",
+    "type": "",
+    "rarity": "",
+    "series": 3,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 2.0,
+        "cornering": 8.0,
+        "power_unit": 4.0,
+        "qualifying": 2.0,
+        "pit_time": 0.79,
+        "total_value": 16.79
+      },
+      "2": {
+        "level": 2,
+        "speed": 3.0,
+        "cornering": 9.0,
+        "power_unit": 5.0,
+        "qualifying": 3.0,
+        "pit_time": 0.74,
+        "total_value": 20.74
+      },
+      "3": {
+        "level": 3,
+        "speed": 3.0,
+        "cornering": 11.0,
+        "power_unit": 5.0,
+        "qualifying": 3.0,
+        "pit_time": 0.69,
+        "total_value": 22.69
+      },
+      "4": {
+        "level": 4,
+        "speed": 4.0,
+        "cornering": 12.0,
+        "power_unit": 6.0,
+        "qualifying": 4.0,
+        "pit_time": 0.64,
+        "total_value": 26.64
+      },
+      "5": {
+        "level": 5,
+        "speed": 4.0,
+        "cornering": 14.0,
+        "power_unit": 7.0,
+        "qualifying": 4.0,
+        "pit_time": 0.59,
+        "total_value": 29.59
+      },
+      "6": {
+        "level": 6,
+        "speed": 5.0,
+        "cornering": 15.0,
+        "power_unit": 8.0,
+        "qualifying": 5.0,
+        "pit_time": 0.55,
+        "total_value": 33.55
+      },
+      "7": {
+        "level": 7,
+        "speed": 5.0,
+        "cornering": 16.0,
+        "power_unit": 8.0,
+        "qualifying": 5.0,
+        "pit_time": 0.5,
+        "total_value": 34.5
+      },
+      "8": {
+        "level": 8,
+        "speed": 6.0,
+        "cornering": 18.0,
+        "power_unit": 9.0,
+        "qualifying": 6.0,
+        "pit_time": 0.45,
+        "total_value": 39.45
+      },
+      "9": {
+        "level": 9,
+        "speed": 6.0,
+        "cornering": 19.0,
+        "power_unit": 10.0,
+        "qualifying": 6.0,
+        "pit_time": 0.4,
+        "total_value": 41.4
+      },
+      "10": {
+        "level": 10,
+        "speed": 7.0,
+        "cornering": 21.0,
+        "power_unit": 10.0,
+        "qualifying": 7.0,
+        "pit_time": 0.35,
+        "total_value": 45.35
+      },
+      "11": {
+        "level": 11,
+        "speed": 7.0,
+        "cornering": 22.0,
+        "power_unit": 11.0,
+        "qualifying": 7.0,
+        "pit_time": 0.3,
+        "total_value": 47.3
+      }
+    }
+  },
+  "The Surge": {
+    "name": "The Surge",
+    "type": "",
+    "rarity": "",
+    "series": 5,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 17.0,
+        "cornering": 5.0,
+        "power_unit": 7.0,
+        "qualifying": 16.0,
+        "pit_time": 0.76,
+        "total_value": 45.76
+      },
+      "2": {
+        "level": 2,
+        "speed": 19.0,
+        "cornering": 6.0,
+        "power_unit": 8.0,
+        "qualifying": 18.0,
+        "pit_time": 0.72,
+        "total_value": 51.72
+      },
+      "3": {
+        "level": 3,
+        "speed": 21.0,
+        "cornering": 7.0,
+        "power_unit": 9.0,
+        "qualifying": 19.0,
+        "pit_time": 0.69,
+        "total_value": 56.69
+      },
+      "4": {
+        "level": 4,
+        "speed": 23.0,
+        "cornering": 8.0,
+        "power_unit": 10.0,
+        "qualifying": 21.0,
+        "pit_time": 0.65,
+        "total_value": 62.65
+      },
+      "5": {
+        "level": 5,
+        "speed": 24.0,
+        "cornering": 8.0,
+        "power_unit": 10.0,
+        "qualifying": 23.0,
+        "pit_time": 0.62,
+        "total_value": 65.62
+      },
+      "6": {
+        "level": 6,
+        "speed": 26.0,
+        "cornering": 9.0,
+        "power_unit": 11.0,
+        "qualifying": 25.0,
+        "pit_time": 0.58,
+        "total_value": 71.58
+      },
+      "7": {
+        "level": 7,
+        "speed": 28.0,
+        "cornering": 10.0,
+        "power_unit": 12.0,
+        "qualifying": 26.0,
+        "pit_time": 0.55,
+        "total_value": 76.55
+      },
+      "8": {
+        "level": 8,
+        "speed": 30.0,
+        "cornering": 11.0,
+        "power_unit": 13.0,
+        "qualifying": 28.0,
+        "pit_time": 0.51,
+        "total_value": 82.51
+      }
+    }
+  },
+  "The Quantum": {
+    "name": "The Quantum",
+    "type": "",
+    "rarity": "",
+    "series": 8,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 11.0,
+        "cornering": 8.0,
+        "power_unit": 27.0,
+        "qualifying": 11.0,
+        "pit_time": 0.69,
+        "total_value": 57.69
+      },
+      "2": {
+        "level": 2,
+        "speed": 12.0,
+        "cornering": 9.0,
+        "power_unit": 29.0,
+        "qualifying": 12.0,
+        "pit_time": 0.65,
+        "total_value": 62.65
+      },
+      "3": {
+        "level": 3,
+        "speed": 13.0,
+        "cornering": 10.0,
+        "power_unit": 31.0,
+        "qualifying": 13.0,
+        "pit_time": 0.62,
+        "total_value": 67.62
+      },
+      "4": {
+        "level": 4,
+        "speed": 14.0,
+        "cornering": 11.0,
+        "power_unit": 33.0,
+        "qualifying": 14.0,
+        "pit_time": 0.58,
+        "total_value": 72.58
+      },
+      "5": {
+        "level": 5,
+        "speed": 15.0,
+        "cornering": 12.0,
+        "power_unit": 36.0,
+        "qualifying": 15.0,
+        "pit_time": 0.55,
+        "total_value": 78.55
+      },
+      "6": {
+        "level": 6,
+        "speed": 15.0,
+        "cornering": 12.0,
+        "power_unit": 38.0,
+        "qualifying": 15.0,
+        "pit_time": 0.51,
+        "total_value": 80.51
+      },
+      "7": {
+        "level": 7,
+        "speed": 16.0,
+        "cornering": 13.0,
+        "power_unit": 40.0,
+        "qualifying": 16.0,
+        "pit_time": 0.48,
+        "total_value": 85.48
+      },
+      "8": {
+        "level": 8,
+        "speed": 17.0,
+        "cornering": 14.0,
+        "power_unit": 42.0,
+        "qualifying": 17.0,
+        "pit_time": 0.44,
+        "total_value": 90.44
+      },
+      "9": {
+        "level": 9,
+        "speed": 18.0,
+        "cornering": 15.0,
+        "power_unit": 44.0,
+        "qualifying": 18.0,
+        "pit_time": 0.41,
+        "total_value": 95.41
+      }
+    }
+  },
+  "The Gyro": {
+    "name": "The Gyro",
+    "type": "",
+    "rarity": "",
+    "series": 10,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 12.0,
+        "cornering": 33.0,
+        "power_unit": 10.0,
+        "qualifying": 14.0,
+        "pit_time": 0.65,
+        "total_value": 69.65
+      },
+      "2": {
+        "level": 2,
+        "speed": 13.0,
+        "cornering": 36.0,
+        "power_unit": 11.0,
+        "qualifying": 15.0,
+        "pit_time": 0.62,
+        "total_value": 75.62
+      },
+      "3": {
+        "level": 3,
+        "speed": 14.0,
+        "cornering": 38.0,
+        "power_unit": 12.0,
+        "qualifying": 16.0,
+        "pit_time": 0.58,
+        "total_value": 80.58
+      },
+      "4": {
+        "level": 4,
+        "speed": 15.0,
+        "cornering": 41.0,
+        "power_unit": 13.0,
+        "qualifying": 16.0,
+        "pit_time": 0.55,
+        "total_value": 85.55
+      },
+      "5": {
+        "level": 5,
+        "speed": 16.0,
+        "cornering": 43.0,
+        "power_unit": 14.0,
+        "qualifying": 17.0,
+        "pit_time": 0.51,
+        "total_value": 90.51
+      },
+      "6": {
+        "level": 6,
+        "speed": 16.0,
+        "cornering": 46.0,
+        "power_unit": 14.0,
+        "qualifying": 18.0,
+        "pit_time": 0.48,
+        "total_value": 94.48
+      },
+      "7": {
+        "level": 7,
+        "speed": 17.0,
+        "cornering": 48.0,
+        "power_unit": 15.0,
+        "qualifying": 19.0,
+        "pit_time": 0.44,
+        "total_value": 99.44
+      },
+      "8": {
+        "level": 8,
+        "speed": 18.0,
+        "cornering": 51.0,
+        "power_unit": 16.0,
+        "qualifying": 19.0,
+        "pit_time": 0.41,
+        "total_value": 104.41
+      },
+      "9": {
+        "level": 9,
+        "speed": 19.0,
+        "cornering": 53.0,
+        "power_unit": 17.0,
+        "qualifying": 20.0,
+        "pit_time": 0.37,
+        "total_value": 109.37
+      }
+    }
+  },
+  "Beat": {
+    "name": "Beat",
+    "type": "",
+    "rarity": "",
+    "series": 12,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 42.0,
+        "cornering": 15.0,
+        "power_unit": 17.0,
+        "qualifying": 16.0,
+        "pit_time": 0.48,
+        "total_value": 90.48
+      },
+      "2": {
+        "level": 2,
+        "speed": 44.0,
+        "cornering": 16.0,
+        "power_unit": 18.0,
+        "qualifying": 17.0,
+        "pit_time": 0.45,
+        "total_value": 95.45
+      },
+      "3": {
+        "level": 3,
+        "speed": 47.0,
+        "cornering": 17.0,
+        "power_unit": 19.0,
+        "qualifying": 18.0,
+        "pit_time": 0.42,
+        "total_value": 101.42
+      },
+      "4": {
+        "level": 4,
+        "speed": 49.0,
+        "cornering": 17.0,
+        "power_unit": 20.0,
+        "qualifying": 19.0,
+        "pit_time": 0.4,
+        "total_value": 105.4
+      },
+      "5": {
+        "level": 5,
+        "speed": 51.0,
+        "cornering": 18.0,
+        "power_unit": 21.0,
+        "qualifying": 20.0,
+        "pit_time": 0.37,
+        "total_value": 110.37
+      },
+      "6": {
+        "level": 6,
+        "speed": 53.0,
+        "cornering": 19.0,
+        "power_unit": 21.0,
+        "qualifying": 20.0,
+        "pit_time": 0.34,
+        "total_value": 113.34
+      },
+      "7": {
+        "level": 7,
+        "speed": 56.0,
+        "cornering": 20.0,
+        "power_unit": 22.0,
+        "qualifying": 21.0,
+        "pit_time": 0.32,
+        "total_value": 119.32
+      },
+      "8": {
+        "level": 8,
+        "speed": 60.0,
+        "cornering": 21.0,
+        "power_unit": 24.0,
+        "qualifying": 23.0,
+        "pit_time": 0.27,
+        "total_value": 128.27
+      }
+    }
+  },
+  "The Blaze": {
+    "name": "The Blaze",
+    "type": "",
+    "rarity": "",
+    "series": 1,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 1.0,
+        "cornering": 6.0,
+        "power_unit": 3.0,
+        "qualifying": 2.0,
+        "pit_time": 0.97,
+        "total_value": 12.97
+      },
+      "2": {
+        "level": 2,
+        "speed": 2.0,
+        "cornering": 8.0,
+        "power_unit": 4.0,
+        "qualifying": 3.0,
+        "pit_time": 0.94,
+        "total_value": 17.94
+      },
+      "3": {
+        "level": 3,
+        "speed": 3.0,
+        "cornering": 11.0,
+        "power_unit": 5.0,
+        "qualifying": 4.0,
+        "pit_time": 0.91,
+        "total_value": 23.91
+      },
+      "4": {
+        "level": 4,
+        "speed": 4.0,
+        "cornering": 13.0,
+        "power_unit": 6.0,
+        "qualifying": 4.0,
+        "pit_time": 0.89,
+        "total_value": 27.89
+      },
+      "5": {
+        "level": 5,
+        "speed": 5.0,
+        "cornering": 16.0,
+        "power_unit": 7.0,
+        "qualifying": 5.0,
+        "pit_time": 0.86,
+        "total_value": 33.86
+      },
+      "6": {
+        "level": 6,
+        "speed": 5.0,
+        "cornering": 18.0,
+        "power_unit": 8.0,
+        "qualifying": 6.0,
+        "pit_time": 0.83,
+        "total_value": 37.83
+      },
+      "7": {
+        "level": 7,
+        "speed": 6.0,
+        "cornering": 20.0,
+        "power_unit": 9.0,
+        "qualifying": 7.0,
+        "pit_time": 0.81,
+        "total_value": 42.81
+      },
+      "8": {
+        "level": 8,
+        "speed": 7.0,
+        "cornering": 23.0,
+        "power_unit": 10.0,
+        "qualifying": 7.0,
+        "pit_time": 0.78,
+        "total_value": 47.78
+      },
+      "9": {
+        "level": 9,
+        "speed": 8.0,
+        "cornering": 25.0,
+        "power_unit": 11.0,
+        "qualifying": 8.0,
+        "pit_time": 0.76,
+        "total_value": 52.76
+      }
+    }
+  },
+  "The Spire": {
+    "name": "The Spire",
+    "type": "",
+    "rarity": "",
+    "series": 3,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 5.0,
+        "cornering": 6.0,
+        "power_unit": 3.0,
+        "qualifying": 4.0,
+        "pit_time": 0.79,
+        "total_value": 18.79
+      },
+      "2": {
+        "level": 2,
+        "speed": 6.0,
+        "cornering": 7.0,
+        "power_unit": 4.0,
+        "qualifying": 5.0,
+        "pit_time": 0.76,
+        "total_value": 22.76
+      },
+      "3": {
+        "level": 3,
+        "speed": 6.0,
+        "cornering": 8.0,
+        "power_unit": 5.0,
+        "qualifying": 6.0,
+        "pit_time": 0.73,
+        "total_value": 25.73
+      },
+      "4": {
+        "level": 4,
+        "speed": 7.0,
+        "cornering": 8.0,
+        "power_unit": 6.0,
+        "qualifying": 7.0,
+        "pit_time": 0.7,
+        "total_value": 28.7
+      },
+      "5": {
+        "level": 5,
+        "speed": 8.0,
+        "cornering": 9.0,
+        "power_unit": 7.0,
+        "qualifying": 8.0,
+        "pit_time": 0.66,
+        "total_value": 32.66
+      },
+      "6": {
+        "level": 6,
+        "speed": 9.0,
+        "cornering": 10.0,
+        "power_unit": 8.0,
+        "qualifying": 9.0,
+        "pit_time": 0.63,
+        "total_value": 36.63
+      },
+      "7": {
+        "level": 7,
+        "speed": 9.0,
+        "cornering": 11.0,
+        "power_unit": 9.0,
+        "qualifying": 9.0,
+        "pit_time": 0.6,
+        "total_value": 38.6
+      },
+      "8": {
+        "level": 8,
+        "speed": 10.0,
+        "cornering": 12.0,
+        "power_unit": 10.0,
+        "qualifying": 10.0,
+        "pit_time": 0.57,
+        "total_value": 42.57
+      },
+      "9": {
+        "level": 9,
+        "speed": 11.0,
+        "cornering": 12.0,
+        "power_unit": 11.0,
+        "qualifying": 11.0,
+        "pit_time": 0.54,
+        "total_value": 45.54
+      },
+      "10": {
+        "level": 10,
+        "speed": 11.0,
+        "cornering": 13.0,
+        "power_unit": 12.0,
+        "qualifying": 12.0,
+        "pit_time": 0.51,
+        "total_value": 48.51
+      },
+      "11": {
+        "level": 11,
+        "speed": 12.0,
+        "cornering": 14.0,
+        "power_unit": 13.0,
+        "qualifying": 13.0,
+        "pit_time": 0.48,
+        "total_value": 52.48
+      }
+    }
+  },
+  "Motion": {
+    "name": "Motion",
+    "type": "",
+    "rarity": "",
+    "series": 4,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 4.0,
+        "cornering": 2.0,
+        "power_unit": 10.0,
+        "qualifying": 3.0,
+        "pit_time": 0.65,
+        "total_value": 19.65
+      },
+      "2": {
+        "level": 2,
+        "speed": 5.0,
+        "cornering": 3.0,
+        "power_unit": 11.0,
+        "qualifying": 4.0,
+        "pit_time": 0.61,
+        "total_value": 23.61
+      },
+      "3": {
+        "level": 3,
+        "speed": 6.0,
+        "cornering": 3.0,
+        "power_unit": 12.0,
+        "qualifying": 5.0,
+        "pit_time": 0.57,
+        "total_value": 26.57
+      },
+      "4": {
+        "level": 4,
+        "speed": 6.0,
+        "cornering": 4.0,
+        "power_unit": 13.0,
+        "qualifying": 5.0,
+        "pit_time": 0.53,
+        "total_value": 28.53
+      },
+      "5": {
+        "level": 5,
+        "speed": 7.0,
+        "cornering": 4.0,
+        "power_unit": 14.0,
+        "qualifying": 6.0,
+        "pit_time": 0.5,
+        "total_value": 31.5
+      },
+      "6": {
+        "level": 6,
+        "speed": 8.0,
+        "cornering": 5.0,
+        "power_unit": 16.0,
+        "qualifying": 7.0,
+        "pit_time": 0.46,
+        "total_value": 36.46
+      },
+      "7": {
+        "level": 7,
+        "speed": 9.0,
+        "cornering": 6.0,
+        "power_unit": 17.0,
+        "qualifying": 8.0,
+        "pit_time": 0.42,
+        "total_value": 40.42
+      },
+      "8": {
+        "level": 8,
+        "speed": 10.0,
+        "cornering": 6.0,
+        "power_unit": 18.0,
+        "qualifying": 9.0,
+        "pit_time": 0.38,
+        "total_value": 43.38
+      },
+      "9": {
+        "level": 9,
+        "speed": 10.0,
+        "cornering": 7.0,
+        "power_unit": 19.0,
+        "qualifying": 9.0,
+        "pit_time": 0.34,
+        "total_value": 45.34
+      },
+      "10": {
+        "level": 10,
+        "speed": 11.0,
+        "cornering": 7.0,
+        "power_unit": 20.0,
+        "qualifying": 10.0,
+        "pit_time": 0.3,
+        "total_value": 48.3
+      },
+      "11": {
+        "level": 11,
+        "speed": 12.0,
+        "cornering": 8.0,
+        "power_unit": 21.0,
+        "qualifying": 11.0,
+        "pit_time": 0.27,
+        "total_value": 52.27
+      }
+    }
+  },
+  "Aero Blade": {
+    "name": "Aero Blade",
+    "type": "",
+    "rarity": "",
+    "series": 6,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 14.0,
+        "cornering": 5.0,
+        "power_unit": 6.0,
+        "qualifying": 14.0,
+        "pit_time": 0.79,
+        "total_value": 39.79
+      },
+      "2": {
+        "level": 2,
+        "speed": 15.0,
+        "cornering": 5.0,
+        "power_unit": 7.0,
+        "qualifying": 15.0,
+        "pit_time": 0.77,
+        "total_value": 42.77
+      },
+      "3": {
+        "level": 3,
+        "speed": 17.0,
+        "cornering": 6.0,
+        "power_unit": 7.0,
+        "qualifying": 17.0,
+        "pit_time": 0.75,
+        "total_value": 47.75
+      },
+      "4": {
+        "level": 4,
+        "speed": 18.0,
+        "cornering": 6.0,
+        "power_unit": 8.0,
+        "qualifying": 18.0,
+        "pit_time": 0.73,
+        "total_value": 50.73
+      },
+      "5": {
+        "level": 5,
+        "speed": 20.0,
+        "cornering": 7.0,
+        "power_unit": 8.0,
+        "qualifying": 20.0,
+        "pit_time": 0.71,
+        "total_value": 55.71
+      },
+      "6": {
+        "level": 6,
+        "speed": 21.0,
+        "cornering": 7.0,
+        "power_unit": 9.0,
+        "qualifying": 21.0,
+        "pit_time": 0.69,
+        "total_value": 58.69
+      },
+      "7": {
+        "level": 7,
+        "speed": 22.0,
+        "cornering": 7.0,
+        "power_unit": 9.0,
+        "qualifying": 22.0,
+        "pit_time": 0.66,
+        "total_value": 60.66
+      },
+      "8": {
+        "level": 8,
+        "speed": 24.0,
+        "cornering": 8.0,
+        "power_unit": 10.0,
+        "qualifying": 24.0,
+        "pit_time": 0.64,
+        "total_value": 66.64
+      },
+      "9": {
+        "level": 9,
+        "speed": 25.0,
+        "cornering": 8.0,
+        "power_unit": 10.0,
+        "qualifying": 25.0,
+        "pit_time": 0.62,
+        "total_value": 68.62
+      },
+      "10": {
+        "level": 10,
+        "speed": 27.0,
+        "cornering": 9.0,
+        "power_unit": 11.0,
+        "qualifying": 27.0,
+        "pit_time": 0.6,
+        "total_value": 74.6
+      },
+      "11": {
+        "level": 11,
+        "speed": 28.0,
+        "cornering": 9.0,
+        "power_unit": 11.0,
+        "qualifying": 28.0,
+        "pit_time": 0.58,
+        "total_value": 76.58
+      }
+    }
+  },
+  "The Valkyrie": {
+    "name": "The Valkyrie",
+    "type": "",
+    "rarity": "",
+    "series": 7,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 10.0,
+        "cornering": 27.0,
+        "power_unit": 11.0,
+        "qualifying": 10.0,
+        "pit_time": 0.72,
+        "total_value": 58.72
+      },
+      "2": {
+        "level": 2,
+        "speed": 11.0,
+        "cornering": 30.0,
+        "power_unit": 12.0,
+        "qualifying": 11.0,
+        "pit_time": 0.69,
+        "total_value": 64.69
+      },
+      "3": {
+        "level": 3,
+        "speed": 12.0,
+        "cornering": 32.0,
+        "power_unit": 13.0,
+        "qualifying": 12.0,
+        "pit_time": 0.65,
+        "total_value": 69.65
+      },
+      "4": {
+        "level": 4,
+        "speed": 13.0,
+        "cornering": 35.0,
+        "power_unit": 14.0,
+        "qualifying": 13.0,
+        "pit_time": 0.62,
+        "total_value": 75.62
+      },
+      "5": {
+        "level": 5,
+        "speed": 14.0,
+        "cornering": 37.0,
+        "power_unit": 15.0,
+        "qualifying": 14.0,
+        "pit_time": 0.58,
+        "total_value": 80.58
+      },
+      "6": {
+        "level": 6,
+        "speed": 15.0,
+        "cornering": 40.0,
+        "power_unit": 16.0,
+        "qualifying": 15.0,
+        "pit_time": 0.55,
+        "total_value": 86.55
+      },
+      "7": {
+        "level": 7,
+        "speed": 16.0,
+        "cornering": 42.0,
+        "power_unit": 17.0,
+        "qualifying": 16.0,
+        "pit_time": 0.51,
+        "total_value": 91.51
+      },
+      "8": {
+        "level": 8,
+        "speed": 17.0,
+        "cornering": 45.0,
+        "power_unit": 18.0,
+        "qualifying": 17.0,
+        "pit_time": 0.48,
+        "total_value": 97.48
+      }
+    }
+  },
+  "Power Lift": {
+    "name": "Power Lift",
+    "type": "",
+    "rarity": "",
+    "series": 9,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 12.0,
+        "cornering": 10.0,
+        "power_unit": 30.0,
+        "qualifying": 12.0,
+        "pit_time": 0.69,
+        "total_value": 64.69
+      },
+      "2": {
+        "level": 2,
+        "speed": 13.0,
+        "cornering": 11.0,
+        "power_unit": 32.0,
+        "qualifying": 13.0,
+        "pit_time": 0.65,
+        "total_value": 69.65
+      },
+      "3": {
+        "level": 3,
+        "speed": 14.0,
+        "cornering": 12.0,
+        "power_unit": 35.0,
+        "qualifying": 14.0,
+        "pit_time": 0.62,
+        "total_value": 75.62
+      },
+      "4": {
+        "level": 4,
+        "speed": 15.0,
+        "cornering": 13.0,
+        "power_unit": 37.0,
+        "qualifying": 15.0,
+        "pit_time": 0.59,
+        "total_value": 80.59
+      },
+      "5": {
+        "level": 5,
+        "speed": 16.0,
+        "cornering": 14.0,
+        "power_unit": 39.0,
+        "qualifying": 16.0,
+        "pit_time": 0.56,
+        "total_value": 85.56
+      },
+      "6": {
+        "level": 6,
+        "speed": 16.0,
+        "cornering": 14.0,
+        "power_unit": 41.0,
+        "qualifying": 16.0,
+        "pit_time": 0.53,
+        "total_value": 87.53
+      },
+      "7": {
+        "level": 7,
+        "speed": 17.0,
+        "cornering": 15.0,
+        "power_unit": 44.0,
+        "qualifying": 17.0,
+        "pit_time": 0.5,
+        "total_value": 93.5
+      },
+      "8": {
+        "level": 8,
+        "speed": 18.0,
+        "cornering": 16.0,
+        "power_unit": 46.0,
+        "qualifying": 18.0,
+        "pit_time": 0.47,
+        "total_value": 98.47
+      },
+      "9": {
+        "level": 9,
+        "speed": 19.0,
+        "cornering": 17.0,
+        "power_unit": 48.0,
+        "qualifying": 19.0,
+        "pit_time": 0.44,
+        "total_value": 103.44
+      }
+    }
+  },
+  "The Cyclone": {
+    "name": "The Cyclone",
+    "type": "",
+    "rarity": "",
+    "series": 11,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 42.0,
+        "cornering": 16.0,
+        "power_unit": 15.0,
+        "qualifying": 17.0,
+        "pit_time": 0.48,
+        "total_value": 90.48
+      },
+      "2": {
+        "level": 2,
+        "speed": 45.0,
+        "cornering": 17.0,
+        "power_unit": 16.0,
+        "qualifying": 18.0,
+        "pit_time": 0.45,
+        "total_value": 96.45
+      },
+      "3": {
+        "level": 3,
+        "speed": 47.0,
+        "cornering": 18.0,
+        "power_unit": 17.0,
+        "qualifying": 19.0,
+        "pit_time": 0.42,
+        "total_value": 101.42
+      },
+      "4": {
+        "level": 4,
+        "speed": 50.0,
+        "cornering": 19.0,
+        "power_unit": 18.0,
+        "qualifying": 20.0,
+        "pit_time": 0.39,
+        "total_value": 107.39
+      },
+      "5": {
+        "level": 5,
+        "speed": 52.0,
+        "cornering": 20.0,
+        "power_unit": 18.0,
+        "qualifying": 21.0,
+        "pit_time": 0.36,
+        "total_value": 111.36
+      },
+      "6": {
+        "level": 6,
+        "speed": 55.0,
+        "cornering": 21.0,
+        "power_unit": 19.0,
+        "qualifying": 22.0,
+        "pit_time": 0.33,
+        "total_value": 117.33
+      },
+      "7": {
+        "level": 7,
+        "speed": 57.0,
+        "cornering": 22.0,
+        "power_unit": 20.0,
+        "qualifying": 23.0,
+        "pit_time": 0.3,
+        "total_value": 122.3
+      },
+      "8": {
+        "level": 8,
+        "speed": 60.0,
+        "cornering": 23.0,
+        "power_unit": 21.0,
+        "qualifying": 24.0,
+        "pit_time": 0.27,
+        "total_value": 128.27
+      }
+    }
+  },
+  "Glide": {
+    "name": "Glide",
+    "type": "",
+    "rarity": "",
+    "series": 1,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 2.0,
+        "cornering": 2.0,
+        "power_unit": 3.0,
+        "qualifying": 1.0,
+        "pit_time": 0.97,
+        "total_value": 8.97
+      },
+      "2": {
+        "level": 2,
+        "speed": 3.0,
+        "cornering": 3.0,
+        "power_unit": 4.0,
+        "qualifying": 2.0,
+        "pit_time": 0.94,
+        "total_value": 12.94
+      },
+      "3": {
+        "level": 3,
+        "speed": 4.0,
+        "cornering": 4.0,
+        "power_unit": 5.0,
+        "qualifying": 3.0,
+        "pit_time": 0.92,
+        "total_value": 16.92
+      },
+      "4": {
+        "level": 4,
+        "speed": 5.0,
+        "cornering": 4.0,
+        "power_unit": 6.0,
+        "qualifying": 4.0,
+        "pit_time": 0.89,
+        "total_value": 19.89
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 5.0,
+        "power_unit": 7.0,
+        "qualifying": 5.0,
+        "pit_time": 0.87,
+        "total_value": 23.87
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 6.0,
+        "power_unit": 8.0,
+        "qualifying": 6.0,
+        "pit_time": 0.84,
+        "total_value": 27.84
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 7.0,
+        "power_unit": 8.0,
+        "qualifying": 7.0,
+        "pit_time": 0.82,
+        "total_value": 29.82
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 8.0,
+        "power_unit": 9.0,
+        "qualifying": 8.0,
+        "pit_time": 0.79,
+        "total_value": 33.79
+      },
+      "9": {
+        "level": 9,
+        "speed": 9.0,
+        "cornering": 8.0,
+        "power_unit": 10.0,
+        "qualifying": 9.0,
+        "pit_time": 0.77,
+        "total_value": 36.77
+      },
+      "10": {
+        "level": 10,
+        "speed": 10.0,
+        "cornering": 9.0,
+        "power_unit": 11.0,
+        "qualifying": 10.0,
+        "pit_time": 0.74,
+        "total_value": 40.74
+      },
+      "11": {
+        "level": 11,
+        "speed": 11.0,
+        "cornering": 10.0,
+        "power_unit": 12.0,
+        "qualifying": 11.0,
+        "pit_time": 0.72,
+        "total_value": 44.72
+      }
+    }
+  },
+  "Gallop": {
+    "name": "Gallop",
+    "type": "",
+    "rarity": "",
+    "series": 2,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 5.0,
+        "cornering": 2.0,
+        "power_unit": 2.0,
+        "qualifying": 4.0,
+        "pit_time": 0.97,
+        "total_value": 13.97
+      },
+      "2": {
+        "level": 2,
+        "speed": 6.0,
+        "cornering": 3.0,
+        "power_unit": 3.0,
+        "qualifying": 5.0,
+        "pit_time": 0.94,
+        "total_value": 17.94
+      },
+      "3": {
+        "level": 3,
+        "speed": 8.0,
+        "cornering": 3.0,
+        "power_unit": 3.0,
+        "qualifying": 6.0,
+        "pit_time": 0.92,
+        "total_value": 20.92
+      },
+      "4": {
+        "level": 4,
+        "speed": 9.0,
+        "cornering": 4.0,
+        "power_unit": 4.0,
+        "qualifying": 8.0,
+        "pit_time": 0.89,
+        "total_value": 25.89
+      },
+      "5": {
+        "level": 5,
+        "speed": 10.0,
+        "cornering": 4.0,
+        "power_unit": 4.0,
+        "qualifying": 9.0,
+        "pit_time": 0.87,
+        "total_value": 27.87
+      },
+      "6": {
+        "level": 6,
+        "speed": 12.0,
+        "cornering": 5.0,
+        "power_unit": 5.0,
+        "qualifying": 10.0,
+        "pit_time": 0.84,
+        "total_value": 32.84
+      },
+      "7": {
+        "level": 7,
+        "speed": 13.0,
+        "cornering": 6.0,
+        "power_unit": 6.0,
+        "qualifying": 11.0,
+        "pit_time": 0.82,
+        "total_value": 36.82
+      },
+      "8": {
+        "level": 8,
+        "speed": 14.0,
+        "cornering": 6.0,
+        "power_unit": 6.0,
+        "qualifying": 12.0,
+        "pit_time": 0.79,
+        "total_value": 38.79
+      },
+      "9": {
+        "level": 9,
+        "speed": 15.0,
+        "cornering": 7.0,
+        "power_unit": 7.0,
+        "qualifying": 14.0,
+        "pit_time": 0.77,
+        "total_value": 43.77
+      },
+      "10": {
+        "level": 10,
+        "speed": 17.0,
+        "cornering": 7.0,
+        "power_unit": 7.0,
+        "qualifying": 15.0,
+        "pit_time": 0.74,
+        "total_value": 46.74
+      },
+      "11": {
+        "level": 11,
+        "speed": 18.0,
+        "cornering": 8.0,
+        "power_unit": 8.0,
+        "qualifying": 16.0,
+        "pit_time": 0.72,
+        "total_value": 50.72
+      }
+    }
+  },
+  "Spark-E": {
+    "name": "Spark-E",
+    "type": "",
+    "rarity": "",
+    "series": 4,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 4.0,
+        "cornering": 3.0,
+        "power_unit": 7.0,
+        "qualifying": 2.0,
+        "pit_time": 0.79,
+        "total_value": 16.79
+      },
+      "2": {
+        "level": 2,
+        "speed": 5.0,
+        "cornering": 4.0,
+        "power_unit": 8.0,
+        "qualifying": 3.0,
+        "pit_time": 0.74,
+        "total_value": 20.74
+      },
+      "3": {
+        "level": 3,
+        "speed": 5.0,
+        "cornering": 4.0,
+        "power_unit": 10.0,
+        "qualifying": 3.0,
+        "pit_time": 0.69,
+        "total_value": 22.69
+      },
+      "4": {
+        "level": 4,
+        "speed": 6.0,
+        "cornering": 5.0,
+        "power_unit": 11.0,
+        "qualifying": 4.0,
+        "pit_time": 0.64,
+        "total_value": 26.64
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 5.0,
+        "power_unit": 13.0,
+        "qualifying": 4.0,
+        "pit_time": 0.59,
+        "total_value": 28.59
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 6.0,
+        "power_unit": 14.0,
+        "qualifying": 5.0,
+        "pit_time": 0.55,
+        "total_value": 32.55
+      },
+      "7": {
+        "level": 7,
+        "speed": 8.0,
+        "cornering": 7.0,
+        "power_unit": 15.0,
+        "qualifying": 5.0,
+        "pit_time": 0.5,
+        "total_value": 35.5
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 7.0,
+        "power_unit": 17.0,
+        "qualifying": 6.0,
+        "pit_time": 0.45,
+        "total_value": 38.45
+      },
+      "9": {
+        "level": 9,
+        "speed": 9.0,
+        "cornering": 8.0,
+        "power_unit": 18.0,
+        "qualifying": 6.0,
+        "pit_time": 0.4,
+        "total_value": 41.4
+      },
+      "10": {
+        "level": 10,
+        "speed": 9.0,
+        "cornering": 8.0,
+        "power_unit": 20.0,
+        "qualifying": 7.0,
+        "pit_time": 0.35,
+        "total_value": 44.35
+      },
+      "11": {
+        "level": 11,
+        "speed": 10.0,
+        "cornering": 9.0,
+        "power_unit": 21.0,
+        "qualifying": 7.0,
+        "pit_time": 0.3,
+        "total_value": 47.3
+      }
+    }
+  },
+  "The Saber": {
+    "name": "The Saber",
+    "type": "",
+    "rarity": "",
+    "series": 6,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 6.0,
+        "cornering": 15.0,
+        "power_unit": 5.0,
+        "qualifying": 13.0,
+        "pit_time": 0.79,
+        "total_value": 39.79
+      },
+      "2": {
+        "level": 2,
+        "speed": 7.0,
+        "cornering": 17.0,
+        "power_unit": 6.0,
+        "qualifying": 15.0,
+        "pit_time": 0.77,
+        "total_value": 45.77
+      },
+      "3": {
+        "level": 3,
+        "speed": 7.0,
+        "cornering": 19.0,
+        "power_unit": 7.0,
+        "qualifying": 16.0,
+        "pit_time": 0.75,
+        "total_value": 49.75
+      },
+      "4": {
+        "level": 4,
+        "speed": 8.0,
+        "cornering": 20.0,
+        "power_unit": 7.0,
+        "qualifying": 18.0,
+        "pit_time": 0.72,
+        "total_value": 53.72
+      },
+      "5": {
+        "level": 5,
+        "speed": 9.0,
+        "cornering": 22.0,
+        "power_unit": 8.0,
+        "qualifying": 20.0,
+        "pit_time": 0.7,
+        "total_value": 59.7
+      },
+      "6": {
+        "level": 6,
+        "speed": 9.0,
+        "cornering": 24.0,
+        "power_unit": 9.0,
+        "qualifying": 21.0,
+        "pit_time": 0.68,
+        "total_value": 63.68
+      },
+      "7": {
+        "level": 7,
+        "speed": 10.0,
+        "cornering": 26.0,
+        "power_unit": 10.0,
+        "qualifying": 23.0,
+        "pit_time": 0.66,
+        "total_value": 69.66
+      },
+      "8": {
+        "level": 8,
+        "speed": 10.0,
+        "cornering": 27.0,
+        "power_unit": 10.0,
+        "qualifying": 24.0,
+        "pit_time": 0.64,
+        "total_value": 71.64
+      },
+      "9": {
+        "level": 9,
+        "speed": 11.0,
+        "cornering": 29.0,
+        "power_unit": 11.0,
+        "qualifying": 26.0,
+        "pit_time": 0.62,
+        "total_value": 77.62
+      }
+    }
+  },
+  "Turbo Jet": {
+    "name": "Turbo Jet",
+    "type": "",
+    "rarity": "",
+    "series": 8,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 24.0,
+        "cornering": 10.0,
+        "power_unit": 8.0,
+        "qualifying": 9.0,
+        "pit_time": 0.72,
+        "total_value": 51.72
+      },
+      "2": {
+        "level": 2,
+        "speed": 26.0,
+        "cornering": 11.0,
+        "power_unit": 9.0,
+        "qualifying": 10.0,
+        "pit_time": 0.69,
+        "total_value": 56.69
+      },
+      "3": {
+        "level": 3,
+        "speed": 29.0,
+        "cornering": 12.0,
+        "power_unit": 10.0,
+        "qualifying": 11.0,
+        "pit_time": 0.67,
+        "total_value": 62.67
+      },
+      "4": {
+        "level": 4,
+        "speed": 31.0,
+        "cornering": 13.0,
+        "power_unit": 10.0,
+        "qualifying": 11.0,
+        "pit_time": 0.64,
+        "total_value": 65.64
+      },
+      "5": {
+        "level": 5,
+        "speed": 34.0,
+        "cornering": 14.0,
+        "power_unit": 11.0,
+        "qualifying": 12.0,
+        "pit_time": 0.62,
+        "total_value": 71.62
+      },
+      "6": {
+        "level": 6,
+        "speed": 36.0,
+        "cornering": 15.0,
+        "power_unit": 12.0,
+        "qualifying": 13.0,
+        "pit_time": 0.59,
+        "total_value": 76.59
+      },
+      "7": {
+        "level": 7,
+        "speed": 38.0,
+        "cornering": 16.0,
+        "power_unit": 13.0,
+        "qualifying": 14.0,
+        "pit_time": 0.56,
+        "total_value": 81.56
+      },
+      "8": {
+        "level": 8,
+        "speed": 41.0,
+        "cornering": 17.0,
+        "power_unit": 13.0,
+        "qualifying": 14.0,
+        "pit_time": 0.54,
+        "total_value": 85.54
+      },
+      "9": {
+        "level": 9,
+        "speed": 43.0,
+        "cornering": 18.0,
+        "power_unit": 14.0,
+        "qualifying": 15.0,
+        "pit_time": 0.51,
+        "total_value": 90.51
+      }
+    }
+  },
+  "The Beast": {
+    "name": "The Beast",
+    "type": "",
+    "rarity": "",
+    "series": 9,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 13.0,
+        "cornering": 14.0,
+        "power_unit": 35.0,
+        "qualifying": 15.0,
+        "pit_time": 0.58,
+        "total_value": 77.58
+      },
+      "2": {
+        "level": 2,
+        "speed": 14.0,
+        "cornering": 15.0,
+        "power_unit": 38.0,
+        "qualifying": 16.0,
+        "pit_time": 0.55,
+        "total_value": 83.55
+      },
+      "3": {
+        "level": 3,
+        "speed": 15.0,
+        "cornering": 16.0,
+        "power_unit": 40.0,
+        "qualifying": 17.0,
+        "pit_time": 0.52,
+        "total_value": 88.52
+      },
+      "4": {
+        "level": 4,
+        "speed": 16.0,
+        "cornering": 17.0,
+        "power_unit": 43.0,
+        "qualifying": 18.0,
+        "pit_time": 0.49,
+        "total_value": 94.49
+      },
+      "5": {
+        "level": 5,
+        "speed": 16.0,
+        "cornering": 18.0,
+        "power_unit": 46.0,
+        "qualifying": 19.0,
+        "pit_time": 0.46,
+        "total_value": 99.46
+      },
+      "6": {
+        "level": 6,
+        "speed": 17.0,
+        "cornering": 19.0,
+        "power_unit": 49.0,
+        "qualifying": 20.0,
+        "pit_time": 0.43,
+        "total_value": 105.43
+      },
+      "7": {
+        "level": 7,
+        "speed": 18.0,
+        "cornering": 20.0,
+        "power_unit": 51.0,
+        "qualifying": 21.0,
+        "pit_time": 0.4,
+        "total_value": 110.4
+      },
+      "8": {
+        "level": 8,
+        "speed": 19.0,
+        "cornering": 21.0,
+        "power_unit": 54.0,
+        "qualifying": 22.0,
+        "pit_time": 0.37,
+        "total_value": 116.37
+      }
+    }
+  },
+  "Nemesis": {
+    "name": "Nemesis",
+    "type": "",
+    "rarity": "",
+    "series": 11,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 17.0,
+        "cornering": 42.0,
+        "power_unit": 15.0,
+        "qualifying": 16.0,
+        "pit_time": 0.48,
+        "total_value": 90.48
+      },
+      "2": {
+        "level": 2,
+        "speed": 18.0,
+        "cornering": 45.0,
+        "power_unit": 16.0,
+        "qualifying": 17.0,
+        "pit_time": 0.45,
+        "total_value": 96.45
+      },
+      "3": {
+        "level": 3,
+        "speed": 19.0,
+        "cornering": 47.0,
+        "power_unit": 17.0,
+        "qualifying": 18.0,
+        "pit_time": 0.43,
+        "total_value": 101.43
+      },
+      "4": {
+        "level": 4,
+        "speed": 20.0,
+        "cornering": 50.0,
+        "power_unit": 18.0,
+        "qualifying": 19.0,
+        "pit_time": 0.4,
+        "total_value": 107.4
+      },
+      "5": {
+        "level": 5,
+        "speed": 22.0,
+        "cornering": 52.0,
+        "power_unit": 18.0,
+        "qualifying": 20.0,
+        "pit_time": 0.38,
+        "total_value": 112.38
+      },
+      "6": {
+        "level": 6,
+        "speed": 23.0,
+        "cornering": 55.0,
+        "power_unit": 19.0,
+        "qualifying": 21.0,
+        "pit_time": 0.35,
+        "total_value": 118.35
+      },
+      "7": {
+        "level": 7,
+        "speed": 24.0,
+        "cornering": 57.0,
+        "power_unit": 20.0,
+        "qualifying": 22.0,
+        "pit_time": 0.33,
+        "total_value": 123.33
+      },
+      "8": {
+        "level": 8,
+        "speed": 25.0,
+        "cornering": 60.0,
+        "power_unit": 21.0,
+        "qualifying": 23.0,
+        "pit_time": 0.3,
+        "total_value": 129.3
+      }
+    }
+  },
+  "Zenith": {
+    "name": "Zenith",
+    "type": "",
+    "rarity": "",
+    "series": 1,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 9.0,
+        "cornering": 2.0,
+        "power_unit": 4.0,
+        "qualifying": 3.0,
+        "pit_time": 0.93,
+        "total_value": 18.93
+      },
+      "2": {
+        "level": 2,
+        "speed": 12.0,
+        "cornering": 3.0,
+        "power_unit": 5.0,
+        "qualifying": 4.0,
+        "pit_time": 0.9,
+        "total_value": 24.9
+      },
+      "3": {
+        "level": 3,
+        "speed": 14.0,
+        "cornering": 4.0,
+        "power_unit": 6.0,
+        "qualifying": 5.0,
+        "pit_time": 0.86,
+        "total_value": 29.86
+      },
+      "4": {
+        "level": 4,
+        "speed": 17.0,
+        "cornering": 5.0,
+        "power_unit": 7.0,
+        "qualifying": 6.0,
+        "pit_time": 0.83,
+        "total_value": 35.83
+      },
+      "5": {
+        "level": 5,
+        "speed": 19.0,
+        "cornering": 6.0,
+        "power_unit": 9.0,
+        "qualifying": 7.0,
+        "pit_time": 0.79,
+        "total_value": 41.79
+      },
+      "6": {
+        "level": 6,
+        "speed": 22.0,
+        "cornering": 7.0,
+        "power_unit": 10.0,
+        "qualifying": 8.0,
+        "pit_time": 0.76,
+        "total_value": 47.76
+      },
+      "7": {
+        "level": 7,
+        "speed": 24.0,
+        "cornering": 8.0,
+        "power_unit": 11.0,
+        "qualifying": 9.0,
+        "pit_time": 0.72,
+        "total_value": 52.72
+      },
+      "8": {
+        "level": 8,
+        "speed": 27.0,
+        "cornering": 9.0,
+        "power_unit": 12.0,
+        "qualifying": 10.0,
+        "pit_time": 0.69,
+        "total_value": 58.69
+      }
+    }
+  },
+  "Nexus": {
+    "name": "Nexus",
+    "type": "",
+    "rarity": "",
+    "series": 2,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 3.0,
+        "cornering": 2.0,
+        "power_unit": 4.0,
+        "qualifying": 3.0,
+        "pit_time": 0.9,
+        "total_value": 12.9
+      },
+      "2": {
+        "level": 2,
+        "speed": 4.0,
+        "cornering": 3.0,
+        "power_unit": 5.0,
+        "qualifying": 4.0,
+        "pit_time": 0.86,
+        "total_value": 16.86
+      },
+      "3": {
+        "level": 3,
+        "speed": 5.0,
+        "cornering": 4.0,
+        "power_unit": 6.0,
+        "qualifying": 5.0,
+        "pit_time": 0.83,
+        "total_value": 20.83
+      },
+      "4": {
+        "level": 4,
+        "speed": 5.0,
+        "cornering": 4.0,
+        "power_unit": 7.0,
+        "qualifying": 5.0,
+        "pit_time": 0.79,
+        "total_value": 21.79
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 5.0,
+        "power_unit": 8.0,
+        "qualifying": 6.0,
+        "pit_time": 0.76,
+        "total_value": 25.76
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 6.0,
+        "power_unit": 9.0,
+        "qualifying": 7.0,
+        "pit_time": 0.72,
+        "total_value": 29.72
+      },
+      "7": {
+        "level": 7,
+        "speed": 8.0,
+        "cornering": 7.0,
+        "power_unit": 10.0,
+        "qualifying": 8.0,
+        "pit_time": 0.69,
+        "total_value": 33.69
+      },
+      "8": {
+        "level": 8,
+        "speed": 9.0,
+        "cornering": 8.0,
+        "power_unit": 11.0,
+        "qualifying": 9.0,
+        "pit_time": 0.65,
+        "total_value": 37.65
+      },
+      "9": {
+        "level": 9,
+        "speed": 9.0,
+        "cornering": 8.0,
+        "power_unit": 12.0,
+        "qualifying": 9.0,
+        "pit_time": 0.62,
+        "total_value": 38.62
+      },
+      "10": {
+        "level": 10,
+        "speed": 10.0,
+        "cornering": 9.0,
+        "power_unit": 13.0,
+        "qualifying": 10.0,
+        "pit_time": 0.58,
+        "total_value": 42.58
+      },
+      "11": {
+        "level": 11,
+        "speed": 11.0,
+        "cornering": 10.0,
+        "power_unit": 14.0,
+        "qualifying": 11.0,
+        "pit_time": 0.55,
+        "total_value": 46.55
+      }
+    }
+  },
+  "Curver 2.0": {
+    "name": "Curver 2.0",
+    "type": "",
+    "rarity": "",
+    "series": 3,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 4.0,
+        "cornering": 7.0,
+        "power_unit": 2.0,
+        "qualifying": 7.0,
+        "pit_time": 0.93,
+        "total_value": 20.93
+      },
+      "2": {
+        "level": 2,
+        "speed": 5.0,
+        "cornering": 8.0,
+        "power_unit": 3.0,
+        "qualifying": 8.0,
+        "pit_time": 0.91,
+        "total_value": 24.91
+      },
+      "3": {
+        "level": 3,
+        "speed": 5.0,
+        "cornering": 10.0,
+        "power_unit": 3.0,
+        "qualifying": 10.0,
+        "pit_time": 0.89,
+        "total_value": 28.89
+      },
+      "4": {
+        "level": 4,
+        "speed": 6.0,
+        "cornering": 11.0,
+        "power_unit": 4.0,
+        "qualifying": 11.0,
+        "pit_time": 0.87,
+        "total_value": 32.87
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 13.0,
+        "power_unit": 4.0,
+        "qualifying": 13.0,
+        "pit_time": 0.85,
+        "total_value": 36.85
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 14.0,
+        "power_unit": 5.0,
+        "qualifying": 14.0,
+        "pit_time": 0.83,
+        "total_value": 40.83
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 15.0,
+        "power_unit": 5.0,
+        "qualifying": 15.0,
+        "pit_time": 0.8,
+        "total_value": 42.8
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 17.0,
+        "power_unit": 6.0,
+        "qualifying": 17.0,
+        "pit_time": 0.78,
+        "total_value": 48.78
+      },
+      "9": {
+        "level": 9,
+        "speed": 8.0,
+        "cornering": 18.0,
+        "power_unit": 6.0,
+        "qualifying": 18.0,
+        "pit_time": 0.76,
+        "total_value": 50.76
+      },
+      "10": {
+        "level": 10,
+        "speed": 9.0,
+        "cornering": 20.0,
+        "power_unit": 7.0,
+        "qualifying": 20.0,
+        "pit_time": 0.74,
+        "total_value": 56.74
+      },
+      "11": {
+        "level": 11,
+        "speed": 9.0,
+        "cornering": 21.0,
+        "power_unit": 7.0,
+        "qualifying": 21.0,
+        "pit_time": 0.72,
+        "total_value": 58.72
+      }
+    }
+  },
+  "The Pulse": {
+    "name": "The Pulse",
+    "type": "",
+    "rarity": "",
+    "series": 5,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 4.0,
+        "cornering": 5.0,
+        "power_unit": 12.0,
+        "qualifying": 6.0,
+        "pit_time": 0.69,
+        "total_value": 27.69
+      },
+      "2": {
+        "level": 2,
+        "speed": 5.0,
+        "cornering": 6.0,
+        "power_unit": 14.0,
+        "qualifying": 7.0,
+        "pit_time": 0.64,
+        "total_value": 32.64
+      },
+      "3": {
+        "level": 3,
+        "speed": 5.0,
+        "cornering": 6.0,
+        "power_unit": 15.0,
+        "qualifying": 7.0,
+        "pit_time": 0.59,
+        "total_value": 33.59
+      },
+      "4": {
+        "level": 4,
+        "speed": 6.0,
+        "cornering": 7.0,
+        "power_unit": 17.0,
+        "qualifying": 8.0,
+        "pit_time": 0.55,
+        "total_value": 38.55
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 7.0,
+        "power_unit": 18.0,
+        "qualifying": 9.0,
+        "pit_time": 0.5,
+        "total_value": 40.5
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 8.0,
+        "power_unit": 20.0,
+        "qualifying": 10.0,
+        "pit_time": 0.46,
+        "total_value": 45.46
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 8.0,
+        "power_unit": 21.0,
+        "qualifying": 10.0,
+        "pit_time": 0.41,
+        "total_value": 46.41
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 9.0,
+        "power_unit": 23.0,
+        "qualifying": 11.0,
+        "pit_time": 0.37,
+        "total_value": 51.37
+      },
+      "9": {
+        "level": 9,
+        "speed": 8.0,
+        "cornering": 9.0,
+        "power_unit": 24.0,
+        "qualifying": 12.0,
+        "pit_time": 0.32,
+        "total_value": 53.32
+      },
+      "10": {
+        "level": 10,
+        "speed": 9.0,
+        "cornering": 10.0,
+        "power_unit": 26.0,
+        "qualifying": 12.0,
+        "pit_time": 0.28,
+        "total_value": 57.28
+      },
+      "11": {
+        "level": 11,
+        "speed": 9.0,
+        "cornering": 10.0,
+        "power_unit": 27.0,
+        "qualifying": 13.0,
+        "pit_time": 0.23,
+        "total_value": 59.23
+      }
+    }
+  },
+  "Hustle": {
+    "name": "Hustle",
+    "type": "",
+    "rarity": "",
+    "series": 7,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 24.0,
+        "cornering": 7.0,
+        "power_unit": 11.0,
+        "qualifying": 10.0,
+        "pit_time": 0.76,
+        "total_value": 52.76
+      },
+      "2": {
+        "level": 2,
+        "speed": 26.0,
+        "cornering": 8.0,
+        "power_unit": 12.0,
+        "qualifying": 11.0,
+        "pit_time": 0.73,
+        "total_value": 57.73
+      },
+      "3": {
+        "level": 3,
+        "speed": 29.0,
+        "cornering": 9.0,
+        "power_unit": 13.0,
+        "qualifying": 12.0,
+        "pit_time": 0.7,
+        "total_value": 63.7
+      },
+      "4": {
+        "level": 4,
+        "speed": 31.0,
+        "cornering": 10.0,
+        "power_unit": 14.0,
+        "qualifying": 13.0,
+        "pit_time": 0.68,
+        "total_value": 68.68
+      },
+      "5": {
+        "level": 5,
+        "speed": 33.0,
+        "cornering": 11.0,
+        "power_unit": 15.0,
+        "qualifying": 14.0,
+        "pit_time": 0.65,
+        "total_value": 73.65
+      },
+      "6": {
+        "level": 6,
+        "speed": 35.0,
+        "cornering": 11.0,
+        "power_unit": 15.0,
+        "qualifying": 14.0,
+        "pit_time": 0.62,
+        "total_value": 75.62
+      },
+      "7": {
+        "level": 7,
+        "speed": 38.0,
+        "cornering": 12.0,
+        "power_unit": 16.0,
+        "qualifying": 15.0,
+        "pit_time": 0.6,
+        "total_value": 81.6
+      },
+      "8": {
+        "level": 8,
+        "speed": 40.0,
+        "cornering": 13.0,
+        "power_unit": 17.0,
+        "qualifying": 16.0,
+        "pit_time": 0.57,
+        "total_value": 86.57
+      },
+      "9": {
+        "level": 9,
+        "speed": 42.0,
+        "cornering": 14.0,
+        "power_unit": 18.0,
+        "qualifying": 17.0,
+        "pit_time": 0.55,
+        "total_value": 91.55
+      }
+    }
+  },
+  "The Arc": {
+    "name": "The Arc",
+    "type": "",
+    "rarity": "",
+    "series": 9,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 12.0,
+        "cornering": 30.0,
+        "power_unit": 10.0,
+        "qualifying": 11.0,
+        "pit_time": 0.65,
+        "total_value": 63.65
+      },
+      "2": {
+        "level": 2,
+        "speed": 13.0,
+        "cornering": 32.0,
+        "power_unit": 11.0,
+        "qualifying": 12.0,
+        "pit_time": 0.62,
+        "total_value": 68.62
+      },
+      "3": {
+        "level": 3,
+        "speed": 14.0,
+        "cornering": 35.0,
+        "power_unit": 12.0,
+        "qualifying": 13.0,
+        "pit_time": 0.59,
+        "total_value": 74.59
+      },
+      "4": {
+        "level": 4,
+        "speed": 15.0,
+        "cornering": 37.0,
+        "power_unit": 12.0,
+        "qualifying": 14.0,
+        "pit_time": 0.56,
+        "total_value": 78.56
+      },
+      "5": {
+        "level": 5,
+        "speed": 16.0,
+        "cornering": 40.0,
+        "power_unit": 13.0,
+        "qualifying": 15.0,
+        "pit_time": 0.53,
+        "total_value": 84.53
+      },
+      "6": {
+        "level": 6,
+        "speed": 16.0,
+        "cornering": 42.0,
+        "power_unit": 14.0,
+        "qualifying": 15.0,
+        "pit_time": 0.5,
+        "total_value": 87.5
+      },
+      "7": {
+        "level": 7,
+        "speed": 17.0,
+        "cornering": 44.0,
+        "power_unit": 15.0,
+        "qualifying": 16.0,
+        "pit_time": 0.47,
+        "total_value": 92.47
+      },
+      "8": {
+        "level": 8,
+        "speed": 18.0,
+        "cornering": 47.0,
+        "power_unit": 15.0,
+        "qualifying": 17.0,
+        "pit_time": 0.44,
+        "total_value": 97.44
+      },
+      "9": {
+        "level": 9,
+        "speed": 19.0,
+        "cornering": 49.0,
+        "power_unit": 16.0,
+        "qualifying": 18.0,
+        "pit_time": 0.41,
+        "total_value": 102.41
+      }
+    }
+  },
+  "The Reactor": {
+    "name": "The Reactor",
+    "type": "",
+    "rarity": "",
+    "series": 12,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 16.0,
+        "cornering": 17.0,
+        "power_unit": 42.0,
+        "qualifying": 15.0,
+        "pit_time": 0.48,
+        "total_value": 90.48
+      },
+      "2": {
+        "level": 2,
+        "speed": 17.0,
+        "cornering": 18.0,
+        "power_unit": 45.0,
+        "qualifying": 16.0,
+        "pit_time": 0.45,
+        "total_value": 96.45
+      },
+      "3": {
+        "level": 3,
+        "speed": 18.0,
+        "cornering": 19.0,
+        "power_unit": 47.0,
+        "qualifying": 17.0,
+        "pit_time": 0.43,
+        "total_value": 101.43
+      },
+      "4": {
+        "level": 4,
+        "speed": 19.0,
+        "cornering": 20.0,
+        "power_unit": 50.0,
+        "qualifying": 18.0,
+        "pit_time": 0.4,
+        "total_value": 107.4
+      },
+      "5": {
+        "level": 5,
+        "speed": 20.0,
+        "cornering": 21.0,
+        "power_unit": 52.0,
+        "qualifying": 19.0,
+        "pit_time": 0.38,
+        "total_value": 112.38
+      },
+      "6": {
+        "level": 6,
+        "speed": 21.0,
+        "cornering": 22.0,
+        "power_unit": 55.0,
+        "qualifying": 20.0,
+        "pit_time": 0.35,
+        "total_value": 118.35
+      },
+      "7": {
+        "level": 7,
+        "speed": 22.0,
+        "cornering": 23.0,
+        "power_unit": 57.0,
+        "qualifying": 21.0,
+        "pit_time": 0.33,
+        "total_value": 123.33
+      },
+      "8": {
+        "level": 8,
+        "speed": 23.0,
+        "cornering": 24.0,
+        "power_unit": 60.0,
+        "qualifying": 22.0,
+        "pit_time": 0.3,
+        "total_value": 129.3
+      }
+    }
+  },
+  "The Synergy": {
+    "name": "The Synergy",
+    "type": "",
+    "rarity": "",
+    "series": 1,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 2.0,
+        "cornering": 3.0,
+        "power_unit": 1.0,
+        "qualifying": 2.0,
+        "pit_time": 0.97,
+        "total_value": 8.97
+      },
+      "2": {
+        "level": 2,
+        "speed": 3.0,
+        "cornering": 4.0,
+        "power_unit": 2.0,
+        "qualifying": 3.0,
+        "pit_time": 0.94,
+        "total_value": 12.94
+      },
+      "3": {
+        "level": 3,
+        "speed": 4.0,
+        "cornering": 5.0,
+        "power_unit": 3.0,
+        "qualifying": 4.0,
+        "pit_time": 0.91,
+        "total_value": 16.91
+      },
+      "4": {
+        "level": 4,
+        "speed": 5.0,
+        "cornering": 6.0,
+        "power_unit": 3.0,
+        "qualifying": 5.0,
+        "pit_time": 0.88,
+        "total_value": 19.88
+      },
+      "5": {
+        "level": 5,
+        "speed": 6.0,
+        "cornering": 7.0,
+        "power_unit": 4.0,
+        "qualifying": 6.0,
+        "pit_time": 0.85,
+        "total_value": 23.85
+      },
+      "6": {
+        "level": 6,
+        "speed": 7.0,
+        "cornering": 8.0,
+        "power_unit": 5.0,
+        "qualifying": 7.0,
+        "pit_time": 0.83,
+        "total_value": 27.83
+      },
+      "7": {
+        "level": 7,
+        "speed": 7.0,
+        "cornering": 8.0,
+        "power_unit": 6.0,
+        "qualifying": 7.0,
+        "pit_time": 0.8,
+        "total_value": 28.8
+      },
+      "8": {
+        "level": 8,
+        "speed": 8.0,
+        "cornering": 9.0,
+        "power_unit": 7.0,
+        "qualifying": 8.0,
+        "pit_time": 0.77,
+        "total_value": 32.77
+      },
+      "9": {
+        "level": 9,
+        "speed": 9.0,
+        "cornering": 10.0,
+        "power_unit": 7.0,
+        "qualifying": 9.0,
+        "pit_time": 0.74,
+        "total_value": 35.74
+      },
+      "10": {
+        "level": 10,
+        "speed": 10.0,
+        "cornering": 11.0,
+        "power_unit": 8.0,
+        "qualifying": 10.0,
+        "pit_time": 0.71,
+        "total_value": 39.71
+      },
+      "11": {
+        "level": 11,
+        "speed": 11.0,
+        "cornering": 12.0,
+        "power_unit": 9.0,
+        "qualifying": 11.0,
+        "pit_time": 0.69,
+        "total_value": 43.69
+      }
+    }
+  },
+  "The Accord": {
+    "name": "The Accord",
+    "type": "",
+    "rarity": "",
+    "series": 2,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 6.0,
+        "cornering": 2.0,
+        "power_unit": 1.0,
+        "qualifying": 3.0,
+        "pit_time": 0.9,
+        "total_value": 12.9
+      },
+      "2": {
+        "level": 2,
+        "speed": 7.0,
+        "cornering": 3.0,
+        "power_unit": 2.0,
+        "qualifying": 4.0,
+        "pit_time": 0.85,
+        "total_value": 16.85
+      },
+      "3": {
+        "level": 3,
+        "speed": 8.0,
+        "cornering": 3.0,
+        "power_unit": 2.0,
+        "qualifying": 4.0,
+        "pit_time": 0.81,
+        "total_value": 17.81
+      },
+      "4": {
+        "level": 4,
+        "speed": 10.0,
+        "cornering": 4.0,
+        "power_unit": 3.0,
+        "qualifying": 5.0,
+        "pit_time": 0.77,
+        "total_value": 22.77
+      },
+      "5": {
+        "level": 5,
+        "speed": 11.0,
+        "cornering": 4.0,
+        "power_unit": 3.0,
+        "qualifying": 6.0,
+        "pit_time": 0.73,
+        "total_value": 24.73
+      },
+      "6": {
+        "level": 6,
+        "speed": 12.0,
+        "cornering": 5.0,
+        "power_unit": 4.0,
+        "qualifying": 7.0,
+        "pit_time": 0.69,
+        "total_value": 28.69
+      },
+      "7": {
+        "level": 7,
+        "speed": 13.0,
+        "cornering": 6.0,
+        "power_unit": 5.0,
+        "qualifying": 7.0,
+        "pit_time": 0.64,
+        "total_value": 31.64
+      },
+      "8": {
+        "level": 8,
+        "speed": 14.0,
+        "cornering": 6.0,
+        "power_unit": 5.0,
+        "qualifying": 8.0,
+        "pit_time": 0.6,
+        "total_value": 33.6
+      },
+      "9": {
+        "level": 9,
+        "speed": 16.0,
+        "cornering": 7.0,
+        "power_unit": 6.0,
+        "qualifying": 9.0,
+        "pit_time": 0.56,
+        "total_value": 38.56
+      },
+      "10": {
+        "level": 10,
+        "speed": 17.0,
+        "cornering": 7.0,
+        "power_unit": 6.0,
+        "qualifying": 9.0,
+        "pit_time": 0.52,
+        "total_value": 39.52
+      },
+      "11": {
+        "level": 11,
+        "speed": 18.0,
+        "cornering": 8.0,
+        "power_unit": 7.0,
+        "qualifying": 10.0,
+        "pit_time": 0.48,
+        "total_value": 43.48
+      }
+    }
+  },
+  "Thunderbolt": {
+    "name": "Thunderbolt",
+    "type": "",
+    "rarity": "",
+    "series": 4,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 6.0,
+        "cornering": 12.0,
+        "power_unit": 5.0,
+        "qualifying": 4.0,
+        "pit_time": 0.86,
+        "total_value": 27.86
+      },
+      "2": {
+        "level": 2,
+        "speed": 7.0,
+        "cornering": 14.0,
+        "power_unit": 6.0,
+        "qualifying": 5.0,
+        "pit_time": 0.84,
+        "total_value": 32.84
+      },
+      "3": {
+        "level": 3,
+        "speed": 7.0,
+        "cornering": 16.0,
+        "power_unit": 6.0,
+        "qualifying": 5.0,
+        "pit_time": 0.81,
+        "total_value": 34.81
+      },
+      "4": {
+        "level": 4,
+        "speed": 8.0,
+        "cornering": 18.0,
+        "power_unit": 7.0,
+        "qualifying": 6.0,
+        "pit_time": 0.79,
+        "total_value": 39.79
+      },
+      "5": {
+        "level": 5,
+        "speed": 8.0,
+        "cornering": 20.0,
+        "power_unit": 7.0,
+        "qualifying": 6.0,
+        "pit_time": 0.76,
+        "total_value": 41.76
+      },
+      "6": {
+        "level": 6,
+        "speed": 9.0,
+        "cornering": 22.0,
+        "power_unit": 8.0,
+        "qualifying": 7.0,
+        "pit_time": 0.74,
+        "total_value": 46.74
+      },
+      "7": {
+        "level": 7,
+        "speed": 10.0,
+        "cornering": 23.0,
+        "power_unit": 9.0,
+        "qualifying": 7.0,
+        "pit_time": 0.71,
+        "total_value": 49.71
+      },
+      "8": {
+        "level": 8,
+        "speed": 10.0,
+        "cornering": 25.0,
+        "power_unit": 9.0,
+        "qualifying": 8.0,
+        "pit_time": 0.69,
+        "total_value": 52.69
+      },
+      "9": {
+        "level": 9,
+        "speed": 11.0,
+        "cornering": 27.0,
+        "power_unit": 10.0,
+        "qualifying": 8.0,
+        "pit_time": 0.66,
+        "total_value": 56.66
+      },
+      "10": {
+        "level": 10,
+        "speed": 11.0,
+        "cornering": 29.0,
+        "power_unit": 10.0,
+        "qualifying": 9.0,
+        "pit_time": 0.64,
+        "total_value": 59.64
+      },
+      "11": {
+        "level": 11,
+        "speed": 12.0,
+        "cornering": 31.0,
+        "power_unit": 11.0,
+        "qualifying": 9.0,
+        "pit_time": 0.62,
+        "total_value": 63.62
+      }
+    }
+  },
+  "M4D Dash": {
+    "name": "M4D Dash",
+    "type": "",
+    "rarity": "",
+    "series": 6,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 8.0,
+        "cornering": 6.0,
+        "power_unit": 16.0,
+        "qualifying": 16.0,
+        "pit_time": 0.79,
+        "total_value": 46.79
+      },
+      "2": {
+        "level": 2,
+        "speed": 9.0,
+        "cornering": 7.0,
+        "power_unit": 18.0,
+        "qualifying": 18.0,
+        "pit_time": 0.77,
+        "total_value": 52.77
+      },
+      "3": {
+        "level": 3,
+        "speed": 10.0,
+        "cornering": 8.0,
+        "power_unit": 20.0,
+        "qualifying": 19.0,
+        "pit_time": 0.75,
+        "total_value": 57.75
+      },
+      "4": {
+        "level": 4,
+        "speed": 10.0,
+        "cornering": 8.0,
+        "power_unit": 21.0,
+        "qualifying": 21.0,
+        "pit_time": 0.72,
+        "total_value": 60.72
+      },
+      "5": {
+        "level": 5,
+        "speed": 11.0,
+        "cornering": 9.0,
+        "power_unit": 23.0,
+        "qualifying": 23.0,
+        "pit_time": 0.7,
+        "total_value": 66.7
+      },
+      "6": {
+        "level": 6,
+        "speed": 12.0,
+        "cornering": 10.0,
+        "power_unit": 25.0,
+        "qualifying": 24.0,
+        "pit_time": 0.68,
+        "total_value": 71.68
+      },
+      "7": {
+        "level": 7,
+        "speed": 13.0,
+        "cornering": 11.0,
+        "power_unit": 27.0,
+        "qualifying": 26.0,
+        "pit_time": 0.66,
+        "total_value": 77.66
+      },
+      "8": {
+        "level": 8,
+        "speed": 13.0,
+        "cornering": 11.0,
+        "power_unit": 28.0,
+        "qualifying": 27.0,
+        "pit_time": 0.64,
+        "total_value": 79.64
+      },
+      "9": {
+        "level": 9,
+        "speed": 14.0,
+        "cornering": 12.0,
+        "power_unit": 30.0,
+        "qualifying": 29.0,
+        "pit_time": 0.62,
+        "total_value": 85.62
+      }
+    }
+  },
+  "The Juggernaut": {
+    "name": "The Juggernaut",
+    "type": "",
+    "rarity": "",
+    "series": 7,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 10.0,
+        "cornering": 24.0,
+        "power_unit": 8.0,
+        "qualifying": 9.0,
+        "pit_time": 0.72,
+        "total_value": 51.72
+      },
+      "2": {
+        "level": 2,
+        "speed": 11.0,
+        "cornering": 26.0,
+        "power_unit": 9.0,
+        "qualifying": 10.0,
+        "pit_time": 0.69,
+        "total_value": 56.69
+      },
+      "3": {
+        "level": 3,
+        "speed": 12.0,
+        "cornering": 29.0,
+        "power_unit": 10.0,
+        "qualifying": 11.0,
+        "pit_time": 0.65,
+        "total_value": 62.65
+      },
+      "4": {
+        "level": 4,
+        "speed": 12.0,
+        "cornering": 31.0,
+        "power_unit": 10.0,
+        "qualifying": 11.0,
+        "pit_time": 0.62,
+        "total_value": 64.62
+      },
+      "5": {
+        "level": 5,
+        "speed": 13.0,
+        "cornering": 34.0,
+        "power_unit": 11.0,
+        "qualifying": 12.0,
+        "pit_time": 0.58,
+        "total_value": 70.58
+      },
+      "6": {
+        "level": 6,
+        "speed": 14.0,
+        "cornering": 36.0,
+        "power_unit": 12.0,
+        "qualifying": 13.0,
+        "pit_time": 0.55,
+        "total_value": 75.55
+      },
+      "7": {
+        "level": 7,
+        "speed": 15.0,
+        "cornering": 38.0,
+        "power_unit": 13.0,
+        "qualifying": 14.0,
+        "pit_time": 0.51,
+        "total_value": 80.51
+      },
+      "8": {
+        "level": 8,
+        "speed": 15.0,
+        "cornering": 41.0,
+        "power_unit": 13.0,
+        "qualifying": 14.0,
+        "pit_time": 0.48,
+        "total_value": 83.48
+      },
+      "9": {
+        "level": 9,
+        "speed": 16.0,
+        "cornering": 43.0,
+        "power_unit": 14.0,
+        "qualifying": 15.0,
+        "pit_time": 0.44,
+        "total_value": 88.44
+      }
+    }
+  },
+  "Mach III": {
+    "name": "Mach III",
+    "type": "",
+    "rarity": "",
+    "series": 10,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 36.0,
+        "cornering": 15.0,
+        "power_unit": 13.0,
+        "qualifying": 14.0,
+        "pit_time": 0.55,
+        "total_value": 78.55
+      },
+      "2": {
+        "level": 2,
+        "speed": 39.0,
+        "cornering": 16.0,
+        "power_unit": 14.0,
+        "qualifying": 15.0,
+        "pit_time": 0.51,
+        "total_value": 84.51
+      },
+      "3": {
+        "level": 3,
+        "speed": 41.0,
+        "cornering": 17.0,
+        "power_unit": 15.0,
+        "qualifying": 16.0,
+        "pit_time": 0.48,
+        "total_value": 89.48
+      },
+      "4": {
+        "level": 4,
+        "speed": 44.0,
+        "cornering": 18.0,
+        "power_unit": 16.0,
+        "qualifying": 17.0,
+        "pit_time": 0.44,
+        "total_value": 95.44
+      },
+      "5": {
+        "level": 5,
+        "speed": 46.0,
+        "cornering": 18.0,
+        "power_unit": 16.0,
+        "qualifying": 17.0,
+        "pit_time": 0.41,
+        "total_value": 97.41
+      },
+      "6": {
+        "level": 6,
+        "speed": 49.0,
+        "cornering": 19.0,
+        "power_unit": 17.0,
+        "qualifying": 18.0,
+        "pit_time": 0.37,
+        "total_value": 103.37
+      },
+      "7": {
+        "level": 7,
+        "speed": 51.0,
+        "cornering": 20.0,
+        "power_unit": 18.0,
+        "qualifying": 19.0,
+        "pit_time": 0.34,
+        "total_value": 108.34
+      },
+      "8": {
+        "level": 8,
+        "speed": 54.0,
+        "cornering": 21.0,
+        "power_unit": 19.0,
+        "qualifying": 20.0,
+        "pit_time": 0.3,
+        "total_value": 114.3
+      }
+    }
+  },
+  "The Powerhouse": {
+    "name": "The Powerhouse",
+    "type": "",
+    "rarity": "",
+    "series": 12,
+    "levels": {
+      "1": {
+        "level": 1,
+        "speed": 15.0,
+        "cornering": 16.0,
+        "power_unit": 42.0,
+        "qualifying": 17.0,
+        "pit_time": 0.48,
+        "total_value": 90.48
+      },
+      "2": {
+        "level": 2,
+        "speed": 16.0,
+        "cornering": 17.0,
+        "power_unit": 45.0,
+        "qualifying": 18.0,
+        "pit_time": 0.45,
+        "total_value": 96.45
+      },
+      "3": {
+        "level": 3,
+        "speed": 17.0,
+        "cornering": 18.0,
+        "power_unit": 47.0,
+        "qualifying": 19.0,
+        "pit_time": 0.43,
+        "total_value": 101.43
+      },
+      "4": {
+        "level": 4,
+        "speed": 18.0,
+        "cornering": 19.0,
+        "power_unit": 50.0,
+        "qualifying": 20.0,
+        "pit_time": 0.4,
+        "total_value": 107.4
+      },
+      "5": {
+        "level": 5,
+        "speed": 18.0,
+        "cornering": 20.0,
+        "power_unit": 52.0,
+        "qualifying": 22.0,
+        "pit_time": 0.38,
+        "total_value": 112.38
+      },
+      "6": {
+        "level": 6,
+        "speed": 19.0,
+        "cornering": 21.0,
+        "power_unit": 55.0,
+        "qualifying": 23.0,
+        "pit_time": 0.35,
+        "total_value": 118.35
+      },
+      "7": {
+        "level": 7,
+        "speed": 20.0,
+        "cornering": 22.0,
+        "power_unit": 57.0,
+        "qualifying": 24.0,
+        "pit_time": 0.33,
+        "total_value": 123.33
+      },
+      "8": {
+        "level": 8,
+        "speed": 21.0,
+        "cornering": 23.0,
+        "power_unit": 60.0,
+        "qualifying": 25.0,
+        "pit_time": 0.3,
+        "total_value": 129.3
+      }
+    }
+  }
+}

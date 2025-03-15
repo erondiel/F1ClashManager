@@ -1,0 +1,105 @@
+{
+  "grand_prix_events": [
+    {
+      "id": "australia_gp_1",
+      "name": "Australia Grand Prix",
+      "category": "Challenger",
+      "description": "F1 Clash Australia Event - March 2025",
+      "date": "2025-03-15",
+      "created_at": "2025-03-14 01:12:56",
+      "races": {
+        "Qualifying": [
+          {
+            "track": "Monaco",
+            "lap_count": 8,
+            "loadout_id": "monaco_gp_1"
+          }
+        ],
+        "Opening": [
+          {
+            "track": "Melbourne",
+            "lap_count": 8,
+            "loadout_id": "melbourne_gp_1"
+          },
+          {
+            "track": "Mexico City",
+            "lap_count": 8,
+            "loadout_id": "barcelona_mexico_gp_1"
+          },
+          {
+            "track": "Barcelona",
+            "lap_count": 9,
+            "loadout_id": "barcelona_mexico_gp_1"
+          },
+          {
+            "track": "Zandvoort",
+            "lap_count": 8,
+            "loadout_id": "zandvoort_montreal_gp_1"
+          },
+          {
+            "track": "Montreal",
+            "lap_count": 8,
+            "loadout_id": "zandvoort_montreal_gp_1"
+          },
+          {
+            "track": "Melbourne",
+            "lap_count": 8,
+            "loadout_id": "melbourne_gp_1"
+          },
+          {
+            "track": "Singapore",
+            "lap_count": 6,
+            "loadout_id": "singapore_suzuka_gp_1"
+          },
+          {
+            "track": "Suzuka",
+            "lap_count": 7,
+            "loadout_id": "singapore_suzuka_gp_1"
+          }
+        ],
+        "Final": [
+          {
+            "track": "Melbourne",
+            "lap_count": 8,
+            "loadout_id": "melbourne_gp_1"
+          },
+          {
+            "track": "Mexico City",
+            "lap_count": 8,
+            "loadout_id": "barcelona_mexico_gp_1"
+          },
+          {
+            "track": "Barcelona",
+            "lap_count": 9,
+            "loadout_id": "barcelona_mexico_gp_1"
+          },
+          {
+            "track": "Zandvoort",
+            "lap_count": 8,
+            "loadout_id": "zandvoort_montreal_gp_1"
+          },
+          {
+            "track": "Montreal",
+            "lap_count": 8,
+            "loadout_id": "zandvoort_montreal_gp_1"
+          },
+          {
+            "track": "Melbourne",
+            "lap_count": 8,
+            "loadout_id": "melbourne_gp_1"
+          },
+          {
+            "track": "Singapore",
+            "lap_count": 6,
+            "loadout_id": "singapore_suzuka_gp_1"
+          },
+          {
+            "track": "Suzuka",
+            "lap_count": 7,
+            "loadout_id": "singapore_suzuka_gp_1"
+          }
+        ]
+      }
+    }
+  ]
+} 

@@ -1,0 +1,230 @@
+{
+  "Hamilton": {
+    "Rare": {
+      "1": {
+        "overtaking": 25.0,
+        "defending": 25.0,
+        "qualifying": 26.0,
+        "raceStart": 20.0,
+        "tyreMgmt": 19.0,
+        "totalValue": 115.0
+      },
+      "2": {
+        "overtaking": 27.0,
+        "defending": 27.0,
+        "qualifying": 28.0,
+        "raceStart": 22.0,
+        "tyreMgmt": 21.0,
+        "totalValue": 125.0
+      },
+      "3": {
+        "overtaking": 29.0,
+        "defending": 29.0,
+        "qualifying": 30.0,
+        "raceStart": 24.0,
+        "tyreMgmt": 23.0,
+        "totalValue": 135.0
+      },
+      "4": {
+        "overtaking": 31.0,
+        "defending": 31.0,
+        "qualifying": 32.0,
+        "raceStart": 26.0,
+        "tyreMgmt": 25.0,
+        "totalValue": 145.0
+      },
+      "5": {
+        "overtaking": 33.0,
+        "defending": 33.0,
+        "qualifying": 34.0,
+        "raceStart": 28.0,
+        "tyreMgmt": 27.0,
+        "totalValue": 155.0
+      },
+      "6": {
+        "overtaking": 35.0,
+        "defending": 35.0,
+        "qualifying": 36.0,
+        "raceStart": 30.0,
+        "tyreMgmt": 29.0,
+        "totalValue": 165.0
+      },
+      "7": {
+        "overtaking": 37.0,
+        "defending": 37.0,
+        "qualifying": 38.0,
+        "raceStart": 32.0,
+        "tyreMgmt": 31.0,
+        "totalValue": 175.0
+      },
+      "8": {
+        "overtaking": 39.0,
+        "defending": 39.0,
+        "qualifying": 40.0,
+        "raceStart": 34.0,
+        "tyreMgmt": 33.0,
+        "totalValue": 185.0
+      },
+      "9": {
+        "overtaking": 41.0,
+        "defending": 41.0,
+        "qualifying": 42.0,
+        "raceStart": 36.0,
+        "tyreMgmt": 35.0,
+        "totalValue": 195.0
+      }
+    }
+  },
+  "Leclerc": {
+    "Epic": {
+      "1": {
+        "overtaking": 27.0,
+        "defending": 26.0,
+        "qualifying": 30.0,
+        "raceStart": 21.0,
+        "tyreMgmt": 20.0,
+        "totalValue": 124.0
+      },
+      "2": {
+        "overtaking": 29.0,
+        "defending": 28.0,
+        "qualifying": 32.0,
+        "raceStart": 23.0,
+        "tyreMgmt": 22.0,
+        "totalValue": 134.0
+      },
+      "3": {
+        "overtaking": 31.0,
+        "defending": 30.0,
+        "qualifying": 34.0,
+        "raceStart": 25.0,
+        "tyreMgmt": 24.0,
+        "totalValue": 144.0
+      },
+      "4": {
+        "overtaking": 33.0,
+        "defending": 32.0,
+        "qualifying": 36.0,
+        "raceStart": 27.0,
+        "tyreMgmt": 26.0,
+        "totalValue": 154.0
+      },
+      "5": {
+        "overtaking": 35.0,
+        "defending": 34.0,
+        "qualifying": 38.0,
+        "raceStart": 29.0,
+        "tyreMgmt": 28.0,
+        "totalValue": 164.0
+      },
+      "6": {
+        "overtaking": 37.0,
+        "defending": 36.0,
+        "qualifying": 40.0,
+        "raceStart": 31.0,
+        "tyreMgmt": 30.0,
+        "totalValue": 174.0
+      },
+      "7": {
+        "overtaking": 39.0,
+        "defending": 38.0,
+        "qualifying": 42.0,
+        "raceStart": 33.0,
+        "tyreMgmt": 32.0,
+        "totalValue": 184.0
+      }
+    }
+  },
+  "Verstappen": {
+    "Common": {
+      "1": {
+        "overtaking": 23.0,
+        "defending": 24.0,
+        "qualifying": 21.0,
+        "raceStart": 19.0,
+        "tyreMgmt": 18.0,
+        "totalValue": 105.0
+      },
+      "2": {
+        "overtaking": 25.0,
+        "defending": 26.0,
+        "qualifying": 23.0,
+        "raceStart": 21.0,
+        "tyreMgmt": 20.0,
+        "totalValue": 115.0
+      },
+      "3": {
+        "overtaking": 27.0,
+        "defending": 28.0,
+        "qualifying": 25.0,
+        "raceStart": 23.0,
+        "tyreMgmt": 22.0,
+        "totalValue": 125.0
+      },
+      "4": {
+        "overtaking": 29.0,
+        "defending": 30.0,
+        "qualifying": 27.0,
+        "raceStart": 25.0,
+        "tyreMgmt": 24.0,
+        "totalValue": 135.0
+      },
+      "5": {
+        "overtaking": 31.0,
+        "defending": 32.0,
+        "qualifying": 29.0,
+        "raceStart": 27.0,
+        "tyreMgmt": 26.0,
+        "totalValue": 145.0
+      },
+      "6": {
+        "overtaking": 33.0,
+        "defending": 34.0,
+        "qualifying": 31.0,
+        "raceStart": 29.0,
+        "tyreMgmt": 28.0,
+        "totalValue": 155.0
+      },
+      "7": {
+        "overtaking": 35.0,
+        "defending": 36.0,
+        "qualifying": 33.0,
+        "raceStart": 31.0,
+        "tyreMgmt": 30.0,
+        "totalValue": 165.0
+      },
+      "8": {
+        "overtaking": 37.0,
+        "defending": 38.0,
+        "qualifying": 35.0,
+        "raceStart": 33.0,
+        "tyreMgmt": 32.0,
+        "totalValue": 175.0
+      },
+      "9": {
+        "overtaking": 39.0,
+        "defending": 40.0,
+        "qualifying": 37.0,
+        "raceStart": 35.0,
+        "tyreMgmt": 34.0,
+        "totalValue": 185.0
+      },
+      "10": {
+        "overtaking": 41.0,
+        "defending": 42.0,
+        "qualifying": 39.0,
+        "raceStart": 37.0,
+        "tyreMgmt": 36.0,
+        "totalValue": 195.0
+      },
+      "11": {
+        "overtaking": 43.0,
+        "defending": 44.0,
+        "qualifying": 41.0,
+        "raceStart": 39.0,
+        "tyreMgmt": 38.0,
+        "totalValue": 205.0
+      }
+    }
+  }
+}

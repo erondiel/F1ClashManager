@@ -2,14 +2,14 @@ import streamlit as st
 import pandas as pd
 import json
 import os
-from modules.data_manager import DRIVERS_FILE, COMPONENT_FILES, TRACK_BOOSTS_FILE, SERIES_SETUPS_FILE, BOOSTS_FILE, LOADOUTS_FILE
-from modules.loadouts import manage_loadouts
-from modules.drivers import manage_drivers
-from modules.components import manage_components
-from modules.tracks import manage_tracks, manage_series_setups
-from modules.import_tools import import_special_csv_formats
-from modules.series_data import manage_series_loadouts
-from modules.grand_prix import manage_grand_prix
+from src.utils.config import DRIVERS_FILE, COMPONENT_FILE, TRACKS_FILE, SERIES_INFO_FILE, LOADOUTS_FILE
+from src.core.loadouts import manage_loadouts
+from src.core.drivers import manage_drivers
+from src.core.components import manage_components
+from src.core.tracks import manage_tracks, manage_series_setups
+from src.data.import_tools import import_special_csv_formats
+from src.core.series_data import manage_series_loadouts
+from src.core.grand_prix import manage_grand_prix
 from ui.common import create_two_column_metrics
 
 # Set page configuration
@@ -136,12 +136,13 @@ def display_home_page():
         total_components = 0
         owned_components = 0
         
-        for component_type, file_path in COMPONENT_FILES.items():
-            if os.path.exists(file_path):
-                with open(file_path, 'r') as f:
-                    component_data = json.load(f)
-                    key = component_type.lower().replace(" ", "_")
-                    components = component_data.get(key, [])
+        # Since we changed from COMPONENT_FILES to COMPONENT_FILE, we need to update this logic
+        component_types = ["brakes", "gearbox", "rear_wing", "front_wing", "suspension", "engine"]
+        if os.path.exists(COMPONENT_FILE):
+            with open(COMPONENT_FILE, 'r') as f:
+                component_data = json.load(f)
+                for component_type in component_types:
+                    components = component_data.get(component_type, [])
                     total_components += len(components)
                     owned_components += sum(1 for c in components if c.get("inInventory", False))
         
@@ -149,8 +150,8 @@ def display_home_page():
         stats["Owned Components"] = owned_components
         
         # Count tracks
-        if os.path.exists(TRACK_BOOSTS_FILE):
-            with open(TRACK_BOOSTS_FILE, 'r') as f:
+        if os.path.exists(TRACKS_FILE):
+            with open(TRACKS_FILE, 'r') as f:
                 tracks_data = json.load(f)
                 stats["Tracks"] = len(tracks_data.get("tracks", []))
         else:
@@ -195,16 +196,28 @@ def display_home_page():
             st.rerun()
     
     with quick_links_col4:
-        if st.button("Manage Drivers", use_container_width=True, key="home_drivers_btn"):
-            st.session_state.page = "Drivers Manager"
+        if st.button("Import Tools", use_container_width=True, key="home_import_btn"):
+            st.session_state.page = "Import Tools"
             st.rerun()
+            
+    # Add info about the latest update
+    st.markdown("---")
+    st.subheader("Latest Update")
+    st.info("""
+    **New Feature**: Added automatic highest level calculation for drivers and components based on cards owned.
+    
+    The Data Input & Tracker CSV import now calculates the highest possible level for each driver and component based 
+    on the number of cards owned, implementing the same logic from the F1 Clash Resource Sheet.
+    
+    Visit the **Import Tools** page to try it out!
+    """)
 
 def display_components_page():
     """Display the components page with component type selection"""
     st.header("Components Manager")
     
-    # Create component type selection
-    component_types = list(COMPONENT_FILES.keys())
+    # Create component type selection - need to update due to COMPONENT_FILES change
+    component_types = ["Brakes", "Gearbox", "Rear Wing", "Front Wing", "Suspension", "Engine"]
     selected_type = st.selectbox("Select Component Type", component_types)
     
     # Call the component management function with the selected type

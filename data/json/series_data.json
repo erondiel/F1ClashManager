@@ -1,0 +1,121 @@
+{
+  "series_data": [
+    {
+      "series": 0,
+      "track_stats": "Custom",
+      "recommended_ts": "1000+",
+      "coins": 0,
+      "flags_to_unlock": 0,
+      "max_flags": 0,
+      "bot_ts": "Varies"
+    },
+    {
+      "series": 1,
+      "track_stats": "Defending",
+      "recommended_ts": "0 - 350",
+      "coins": 1000,
+      "flags_to_unlock": 0,
+      "max_flags": 50,
+      "bot_ts": "0 - 250"
+    },
+    {
+      "series": 2,
+      "track_stats": "Tyre Mgmt",
+      "recommended_ts": "250 - 450",
+      "coins": 4000,
+      "flags_to_unlock": 50,
+      "max_flags": 100,
+      "bot_ts": "250 - 350"
+    },
+    {
+      "series": 3,
+      "track_stats": "Speed",
+      "recommended_ts": "350 - 600",
+      "coins": 10000,
+      "flags_to_unlock": 100,
+      "max_flags": 200,
+      "bot_ts": "350 - 500"
+    },
+    {
+      "series": 4,
+      "track_stats": "Overtaking",
+      "recommended_ts": "450 - 700",
+      "coins": 25000,
+      "flags_to_unlock": 200,
+      "max_flags": 300,
+      "bot_ts": "450 - 650"
+    },
+    {
+      "series": 5,
+      "track_stats": "Cornering",
+      "recommended_ts": "550 - 800",
+      "coins": 75000,
+      "flags_to_unlock": 300,
+      "max_flags": 400,
+      "bot_ts": "550 - 750"
+    },
+    {
+      "series": 6,
+      "track_stats": "Race Start",
+      "recommended_ts": "650 - 900",
+      "coins": 125000,
+      "flags_to_unlock": 400,
+      "max_flags": 500,
+      "bot_ts": "650 - 850"
+    },
+    {
+      "series": 7,
+      "track_stats": "Power Unit",
+      "recommended_ts": "750 - 1000",
+      "coins": 250000,
+      "flags_to_unlock": 500,
+      "max_flags": 600,
+      "bot_ts": "750 - 950"
+    },
+    {
+      "series": 8,
+      "track_stats": "Defending",
+      "recommended_ts": "850 - 1100",
+      "coins": 500000,
+      "flags_to_unlock": 600,
+      "max_flags": 700,
+      "bot_ts": "850 - 1050"
+    },
+    {
+      "series": 9,
+      "track_stats": "Speed",
+      "recommended_ts": "950 - 1200",
+      "coins": 1000000,
+      "flags_to_unlock": 700,
+      "max_flags": 800,
+      "bot_ts": "950 - 1150"
+    },
+    {
+      "series": 10,
+      "track_stats": "Rotating",
+      "recommended_ts": "1050 - 1300",
+      "coins": 2000000,
+      "flags_to_unlock": 800,
+      "max_flags": 900,
+      "bot_ts": "1050 - 1250"
+    },
+    {
+      "series": 11,
+      "track_stats": "Rotating",
+      "recommended_ts": "1250 - 1550",
+      "coins": 6000000,
+      "flags_to_unlock": 900,
+      "max_flags": 1000,
+      "bot_ts": "1250 - 1500"
+    },
+    {
+      "series": 12,
+      "track_stats": "Rotating",
+      "recommended_ts": "1450 - 1799",
+      "coins": 18000000,
+      "flags_to_unlock": 1000,
+      "max_flags": 1100,
+      "bot_ts": "1450 - 1700"
+    }
+  ]
+} 
